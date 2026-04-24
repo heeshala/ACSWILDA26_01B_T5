@@ -35,6 +35,11 @@ Clustering_Analysis/
 ├── Visualisations/
 └── Documentation/
 
+Predective_Modeling/
+├── Resuts Dataset/
+├── Code/
+└── Documentation/
+
 ```
 ---
 
@@ -83,3 +88,83 @@ A K-Means model was trained using:
 
 ```python
 KMeans(n_clusters=3, random_state=42, n_init=10)
+```
+---
+## 🧠 ANN Model Architecture (Customer Churn Prediction)
+
+### 🔹 Overview
+
+An Artificial Neural Network (ANN) was implemented to predict customer churn using a supervised learning approach.  
+The model is designed to capture non-linear relationships between customer attributes and churn behaviour.
+
+---
+
+### 🔹 Input Layer
+
+- Receives all **preprocessed features**
+- Features include:
+  - Scaled numerical variables (e.g., tenure, monthly charges)
+  - One-hot encoded categorical variables (e.g., contract type, internet service)
+- Input size equals the total number of processed features
+
+---
+
+### 🔹 Hidden Layers
+
+The ANN consists of three fully connected hidden layers:
+
+- **Layer 1**
+  - 64 neurons  
+  - Activation: ReLU  
+  - Purpose: Learn primary feature interactions  
+
+- **Layer 2**
+  - 32 neurons  
+  - Activation: ReLU  
+  - Purpose: Capture intermediate patterns  
+
+- **Layer 3**
+  - 16 neurons  
+  - Activation: ReLU  
+  - Purpose: Learn deeper non-linear relationships  
+
+---
+
+### 🔹 Output Layer
+
+- 1 neuron (binary classification)
+- Output:
+  - `0` → Non-churn  
+  - `1` → Churn  
+- Produces probability-based prediction
+
+---
+
+### ⚙️ Training Configuration
+
+- Algorithm: Multi-Layer Perceptron (MLPClassifier)
+- Optimiser: Adam  
+- Activation Function: ReLU (hidden layers)  
+- Maximum Iterations: 300  
+- Early Stopping: Enabled (prevents overfitting)
+
+---
+
+### 🔹 Design Considerations
+
+- Multiple hidden layers enable learning of complex patterns  
+- Gradual reduction in neurons improves feature abstraction  
+- Preprocessing ensures stable training performance  
+- Early stopping improves generalisation  
+
+---
+
+### 📌 Key Note
+
+- For clustering, the `Churn` column was removed (unsupervised learning)  
+- For ANN, the `Churn` column is **retained as the target variable**  
+
+This allows the model to learn the relationship between customer features and churn outcomes.
+
+
+
