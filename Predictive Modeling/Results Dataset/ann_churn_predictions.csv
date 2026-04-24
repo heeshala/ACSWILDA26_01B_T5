@@ -1,0 +1,1350 @@
+gender,SeniorCitizen,Dependents,tenure,PhoneService,MultipleLines,InternetService,Contract,MonthlyCharges,Actual_Churn,Predicted_Churn
+Male,0,No,24,Yes,No,DSL,Month-to-month,58,0,0
+Female,0,No,69,Yes,No,DSL,Month-to-month,105,0,0
+Female,0,Yes,57,Yes,No,Fiber optic,Two year,53,0,0
+Female,1,No,27,Yes,Yes,DSL,Two year,110,0,1
+Male,0,No,66,No,No,Fiber optic,Month-to-month,29,0,0
+Female,0,Yes,68,Yes,No,DSL,Month-to-month,85,0,0
+Female,0,Yes,29,Yes,Yes,Fiber optic,One year,20,0,0
+Female,0,No,58,Yes,Yes,Fiber optic,Month-to-month,111,0,0
+Female,0,No,4,Yes,No,DSL,Two year,77,1,1
+Male,0,Yes,59,Yes,Yes,Fiber optic,Two year,87,0,0
+Male,0,No,1,No,Yes,Fiber optic,Two year,35,1,0
+Male,1,No,10,Yes,Yes,Fiber optic,One year,87,1,1
+Female,0,Yes,40,Yes,No,DSL,Two year,25,0,0
+Male,1,No,4,Yes,No,Fiber optic,Month-to-month,75,0,1
+Female,0,No,57,Yes,Yes,Fiber optic,Two year,113,1,0
+Female,0,Yes,72,No,No,DSL,One year,54,0,0
+Female,0,No,7,Yes,No,Fiber optic,Month-to-month,75,0,1
+Male,0,Yes,70,No,No,DSL,One year,60,0,0
+Female,1,No,1,Yes,No,DSL,Month-to-month,85,1,1
+Male,0,No,23,Yes,No,DSL,Month-to-month,81,1,0
+Female,0,No,69,Yes,Yes,Fiber optic,Month-to-month,106,0,0
+Male,0,No,56,Yes,Yes,DSL,Month-to-month,60,0,0
+Female,0,No,23,Yes,Yes,DSL,Two year,99,0,0
+Male,0,Yes,71,Yes,No,Fiber optic,Month-to-month,24,0,0
+Female,1,No,66,Yes,Yes,Fiber optic,Month-to-month,102,0,0
+Male,1,No,65,Yes,Yes,Fiber optic,Month-to-month,103,0,0
+Female,0,No,72,Yes,No,DSL,Month-to-month,25,0,0
+Female,0,Yes,72,Yes,No,Fiber optic,Month-to-month,83,0,0
+Female,0,No,71,Yes,Yes,DSL,One year,105,0,0
+Female,0,No,1,Yes,No,DSL,One year,50,1,0
+Male,0,Yes,67,Yes,No,DSL,Month-to-month,90,0,0
+Female,0,Yes,1,Yes,No,DSL,Two year,25,0,0
+Male,0,No,53,Yes,Yes,DSL,Two year,20,0,0
+Male,1,No,9,Yes,Yes,Fiber optic,Month-to-month,21,0,0
+Male,0,No,52,Yes,No,Fiber optic,One year,61,0,0
+Female,0,No,23,Yes,Yes,Fiber optic,Month-to-month,69,0,0
+Male,0,Yes,50,Yes,No,Fiber optic,Month-to-month,55,0,0
+Female,0,No,49,No,Yes,DSL,Two year,41,0,0
+Male,0,No,8,Yes,No,DSL,Two year,20,0,0
+Male,0,No,1,No,No,Fiber optic,Month-to-month,25,1,1
+Female,1,No,67,Yes,Yes,Fiber optic,Month-to-month,106,0,0
+Male,0,No,36,Yes,No,Fiber optic,One year,21,0,0
+Male,0,Yes,58,Yes,No,DSL,Month-to-month,72,0,0
+Male,0,No,16,Yes,No,DSL,Month-to-month,94,1,1
+Female,0,Yes,48,Yes,Yes,DSL,Two year,70,0,0
+Male,0,No,10,Yes,Yes,Fiber optic,Month-to-month,86,1,1
+Male,0,Yes,4,Yes,Yes,Fiber optic,Month-to-month,49,1,0
+Male,0,Yes,27,Yes,No,DSL,Two year,76,0,0
+Male,0,Yes,21,Yes,No,DSL,Two year,25,0,0
+Male,1,No,9,Yes,No,DSL,Month-to-month,85,1,1
+Male,0,Yes,18,Yes,Yes,Fiber optic,Month-to-month,57,1,0
+Male,1,No,30,Yes,Yes,Fiber optic,Month-to-month,106,0,1
+Male,0,Yes,39,Yes,No,DSL,Month-to-month,25,0,0
+Male,0,No,25,Yes,Yes,Fiber optic,Month-to-month,56,0,0
+Male,1,No,53,Yes,No,Fiber optic,Month-to-month,104,1,0
+Male,0,No,2,Yes,No,DSL,One year,81,1,1
+Female,0,Yes,48,No,No,DSL,Month-to-month,45,0,0
+Female,0,No,53,Yes,No,Fiber optic,Month-to-month,20,0,0
+Female,0,No,3,Yes,No,Fiber optic,Two year,70,0,1
+Female,1,No,14,Yes,Yes,DSL,Two year,105,1,1
+Male,1,No,32,Yes,Yes,Fiber optic,Month-to-month,20,0,0
+Female,0,No,36,Yes,Yes,Fiber optic,Month-to-month,99,1,0
+Female,0,No,1,Yes,No,Fiber optic,Month-to-month,71,0,1
+Male,0,Yes,0,Yes,No,DSL,Two year,25,0,0
+Male,0,No,9,Yes,No,DSL,Two year,95,1,1
+Male,0,No,1,Yes,Yes,Fiber optic,Month-to-month,45,1,0
+Female,0,No,34,Yes,No,DSL,Month-to-month,63,1,0
+Female,1,Yes,29,No,No,DSL,Month-to-month,36,0,0
+Male,0,No,3,Yes,Yes,Fiber optic,Two year,20,0,0
+Male,0,Yes,63,Yes,Yes,Fiber optic,One year,91,0,0
+Male,1,Yes,71,Yes,No,Fiber optic,Month-to-month,87,0,0
+Female,0,Yes,1,Yes,Yes,DSL,Month-to-month,20,0,0
+Female,0,Yes,16,No,No,Fiber optic,Month-to-month,36,0,0
+Female,0,Yes,21,Yes,Yes,Fiber optic,Two year,74,1,0
+Male,0,No,10,Yes,Yes,Fiber optic,Month-to-month,90,1,1
+Female,0,No,17,Yes,No,Fiber optic,Month-to-month,84,0,1
+Male,0,Yes,23,Yes,Yes,Fiber optic,Two year,48,1,0
+Male,0,No,3,Yes,Yes,Fiber optic,Month-to-month,77,1,1
+Female,1,No,1,Yes,No,DSL,Two year,74,1,1
+Male,0,No,47,Yes,No,DSL,Month-to-month,87,0,0
+Male,0,Yes,71,Yes,Yes,Fiber optic,One year,67,0,0
+Female,0,No,5,Yes,Yes,Fiber optic,Month-to-month,84,0,1
+Female,0,No,4,Yes,No,DSL,Month-to-month,75,1,1
+Male,0,No,27,Yes,Yes,DSL,Month-to-month,69,0,0
+Female,0,No,23,Yes,No,Fiber optic,Month-to-month,54,0,0
+Male,0,Yes,35,Yes,Yes,Fiber optic,One year,20,0,0
+Male,0,No,56,Yes,Yes,Fiber optic,Month-to-month,100,1,0
+Male,0,Yes,72,Yes,No,DSL,One year,20,0,0
+Male,0,No,67,No,No,DSL,Month-to-month,51,0,0
+Female,0,No,50,Yes,Yes,Fiber optic,Month-to-month,20,0,0
+Female,0,No,8,Yes,Yes,Fiber optic,Month-to-month,54,0,0
+Female,0,No,20,Yes,No,DSL,Month-to-month,44,0,0
+Male,0,No,44,Yes,No,Fiber optic,Month-to-month,90,0,0
+Male,0,Yes,12,Yes,No,DSL,Month-to-month,70,0,0
+Male,0,No,3,No,No,DSL,Two year,37,1,1
+Female,0,No,66,Yes,No,Fiber optic,Month-to-month,103,0,0
+Female,0,No,11,Yes,Yes,Fiber optic,Month-to-month,96,1,1
+Male,0,No,61,Yes,Yes,DSL,Two year,108,0,0
+Female,0,No,32,Yes,No,DSL,Month-to-month,104,0,0
+Female,0,No,6,Yes,No,Fiber optic,Month-to-month,89,0,1
+Male,0,No,65,Yes,Yes,DSL,Two year,110,0,0
+Male,0,Yes,68,Yes,No,DSL,Month-to-month,80,0,0
+Male,0,No,51,Yes,Yes,Fiber optic,Month-to-month,83,0,0
+Female,0,No,38,Yes,Yes,Fiber optic,Month-to-month,104,0,0
+Male,0,Yes,57,Yes,No,Fiber optic,Month-to-month,98,0,0
+Male,0,No,6,Yes,No,DSL,One year,75,1,0
+Male,0,No,44,Yes,Yes,DSL,Month-to-month,65,0,0
+Male,0,No,8,Yes,Yes,Fiber optic,Month-to-month,70,1,0
+Male,1,No,70,Yes,Yes,DSL,Two year,89,0,0
+Female,1,No,59,Yes,No,DSL,Two year,79,0,0
+Female,0,Yes,72,Yes,Yes,Fiber optic,Month-to-month,106,0,0
+Male,1,No,33,Yes,No,Fiber optic,Month-to-month,25,0,0
+Male,0,No,71,Yes,Yes,Fiber optic,Month-to-month,113,0,0
+Male,0,No,71,Yes,No,DSL,Two year,98,0,0
+Male,0,No,71,Yes,No,Fiber optic,One year,80,0,0
+Female,1,No,14,Yes,Yes,DSL,Month-to-month,74,1,1
+Female,1,No,12,Yes,No,DSL,Month-to-month,79,0,1
+Female,0,Yes,61,Yes,Yes,DSL,Two year,50,0,0
+Female,0,No,61,Yes,No,DSL,Month-to-month,103,0,0
+Male,0,Yes,29,Yes,No,DSL,Two year,80,0,0
+Female,0,No,1,Yes,No,DSL,One year,45,1,0
+Male,0,Yes,72,Yes,Yes,Fiber optic,Month-to-month,89,0,0
+Female,0,No,70,No,Yes,Fiber optic,Month-to-month,45,0,0
+Female,1,No,72,Yes,No,Fiber optic,Month-to-month,105,0,0
+Male,1,No,26,Yes,Yes,Fiber optic,Month-to-month,94,0,1
+Male,0,No,1,Yes,Yes,Fiber optic,Month-to-month,80,1,1
+Female,0,No,63,Yes,No,Fiber optic,Month-to-month,21,0,0
+Male,0,No,5,Yes,No,Fiber optic,One year,56,0,0
+Female,1,No,6,Yes,No,DSL,Month-to-month,89,0,1
+Female,0,No,2,No,No,Fiber optic,Month-to-month,43,1,1
+Female,0,Yes,5,Yes,No,DSL,Month-to-month,46,1,0
+Male,0,No,1,Yes,Yes,Fiber optic,Two year,71,0,1
+Female,0,Yes,50,Yes,No,Fiber optic,One year,103,0,0
+Female,0,No,16,Yes,No,DSL,One year,54,1,0
+Female,0,Yes,31,Yes,No,Fiber optic,Month-to-month,91,1,0
+Female,0,Yes,22,Yes,Yes,DSL,Two year,21,0,0
+Female,0,No,62,Yes,No,Fiber optic,One year,94,0,0
+Male,0,Yes,1,Yes,Yes,DSL,Month-to-month,51,1,0
+Female,0,No,35,Yes,No,Fiber optic,Month-to-month,61,0,0
+Female,0,No,25,Yes,No,Fiber optic,Month-to-month,75,0,0
+Female,0,No,3,Yes,Yes,Fiber optic,Two year,92,1,1
+Female,0,Yes,67,No,No,Fiber optic,Month-to-month,54,0,0
+Male,0,Yes,8,Yes,No,DSL,One year,54,0,0
+Female,0,No,42,Yes,No,DSL,One year,25,0,0
+Female,1,No,15,Yes,No,DSL,One year,95,0,1
+Male,0,Yes,29,Yes,Yes,Fiber optic,Month-to-month,71,1,0
+Male,0,No,7,Yes,Yes,Fiber optic,Month-to-month,85,1,1
+Male,0,No,9,No,Yes,Fiber optic,Two year,24,1,0
+Male,1,No,57,Yes,No,DSL,Two year,90,0,0
+Male,0,Yes,72,Yes,Yes,DSL,Month-to-month,75,0,0
+Female,0,No,1,Yes,No,DSL,Month-to-month,50,1,1
+Male,0,Yes,18,No,No,Fiber optic,Month-to-month,26,0,0
+Female,0,Yes,9,Yes,Yes,Fiber optic,Month-to-month,66,0,0
+Female,0,Yes,41,Yes,No,DSL,Two year,109,0,0
+Female,0,No,65,Yes,No,DSL,Two year,26,0,0
+Male,0,Yes,12,No,Yes,Fiber optic,One year,36,0,0
+Female,0,No,1,Yes,Yes,Fiber optic,One year,55,1,1
+Female,0,No,51,Yes,Yes,DSL,One year,69,0,0
+Male,0,Yes,66,Yes,No,DSL,Two year,26,0,0
+Male,0,No,72,No,No,DSL,Month-to-month,66,0,0
+Female,0,No,63,Yes,No,DSL,Two year,80,0,0
+Male,1,Yes,50,Yes,No,Fiber optic,Month-to-month,75,0,0
+Male,0,Yes,12,Yes,No,DSL,Month-to-month,19,0,0
+Female,0,Yes,22,No,No,DSL,Month-to-month,49,0,0
+Female,1,No,42,Yes,No,Fiber optic,Month-to-month,95,0,0
+Female,0,No,31,No,No,DSL,Two year,50,0,0
+Female,0,Yes,35,Yes,No,DSL,One year,26,0,0
+Male,1,No,9,Yes,No,DSL,Month-to-month,80,0,1
+Male,0,No,28,Yes,No,DSL,Month-to-month,61,0,0
+Female,0,Yes,65,No,Yes,DSL,Month-to-month,45,0,0
+Male,0,No,3,No,No,DSL,One year,30,0,1
+Male,1,No,50,Yes,Yes,Fiber optic,Month-to-month,70,0,0
+Male,0,No,21,Yes,No,DSL,Month-to-month,111,1,1
+Female,0,No,54,Yes,No,DSL,Two year,104,1,0
+Male,0,No,15,Yes,Yes,DSL,Month-to-month,96,0,1
+Female,0,No,7,Yes,Yes,Fiber optic,One year,54,0,0
+Female,1,No,1,No,Yes,Fiber optic,One year,25,1,1
+Female,0,No,37,Yes,Yes,Fiber optic,Month-to-month,79,0,0
+Female,0,Yes,61,Yes,No,DSL,Two year,60,0,0
+Male,0,No,72,Yes,Yes,Fiber optic,Month-to-month,111,0,0
+Male,1,No,35,Yes,Yes,DSL,Two year,101,1,1
+Female,0,Yes,57,Yes,Yes,Fiber optic,Month-to-month,95,0,0
+Male,0,No,12,Yes,No,DSL,One year,20,0,0
+Female,1,No,66,No,Yes,Fiber optic,Month-to-month,46,0,0
+Male,1,No,35,Yes,No,Fiber optic,Month-to-month,91,0,0
+Male,0,No,61,Yes,No,Fiber optic,Month-to-month,104,0,0
+Female,0,Yes,71,Yes,No,DSL,Month-to-month,90,0,0
+Female,0,No,72,Yes,No,DSL,Two year,24,0,0
+Male,0,No,42,No,Yes,DSL,Two year,25,0,0
+Male,0,No,1,Yes,Yes,Fiber optic,Month-to-month,50,0,0
+Male,0,Yes,68,Yes,Yes,Fiber optic,Month-to-month,86,0,0
+Female,0,Yes,42,Yes,No,Fiber optic,Two year,100,0,0
+Male,1,Yes,41,Yes,No,DSL,One year,112,1,0
+Female,0,No,21,Yes,No,DSL,Two year,94,0,0
+Male,0,No,35,Yes,No,DSL,Two year,75,1,0
+Female,0,Yes,16,Yes,Yes,DSL,One year,19,0,0
+Male,0,No,71,Yes,No,DSL,One year,104,0,0
+Female,0,No,40,Yes,Yes,Fiber optic,One year,93,0,0
+Female,0,No,48,Yes,No,Fiber optic,Two year,24,0,0
+Male,0,No,35,Yes,No,DSL,Two year,97,0,0
+Male,0,No,2,Yes,No,DSL,Month-to-month,47,0,0
+Female,0,No,42,Yes,No,Fiber optic,Month-to-month,20,0,0
+Female,0,Yes,5,Yes,Yes,Fiber optic,One year,70,0,1
+Male,0,No,24,Yes,Yes,DSL,Month-to-month,91,1,0
+Female,0,Yes,10,Yes,Yes,Fiber optic,Month-to-month,102,1,1
+Female,0,No,4,Yes,Yes,Fiber optic,Month-to-month,20,0,0
+Male,0,No,3,Yes,Yes,Fiber optic,Month-to-month,85,1,1
+Female,1,No,22,Yes,No,DSL,Two year,64,0,0
+Female,0,No,68,No,Yes,DSL,One year,54,0,0
+Male,0,No,1,Yes,No,DSL,One year,20,0,0
+Female,0,Yes,1,Yes,Yes,DSL,One year,46,1,0
+Male,0,No,1,Yes,No,DSL,Month-to-month,46,1,1
+Male,1,Yes,24,Yes,No,DSL,Two year,80,0,0
+Male,0,No,2,No,Yes,Fiber optic,One year,49,1,1
+Female,0,No,68,Yes,No,Fiber optic,Month-to-month,54,0,0
+Male,0,Yes,72,Yes,Yes,Fiber optic,One year,106,0,0
+Male,1,No,34,Yes,Yes,Fiber optic,Month-to-month,85,0,0
+Female,0,No,69,Yes,No,DSL,Month-to-month,99,0,0
+Male,1,Yes,52,Yes,No,DSL,Two year,81,0,0
+Male,1,Yes,72,Yes,No,Fiber optic,Month-to-month,104,0,0
+Female,0,No,31,Yes,No,DSL,Month-to-month,85,0,0
+Female,0,No,26,Yes,No,DSL,Month-to-month,73,0,0
+Female,1,No,72,Yes,Yes,Fiber optic,One year,106,0,0
+Female,0,Yes,18,Yes,Yes,Fiber optic,Month-to-month,25,0,0
+Female,0,No,27,Yes,No,DSL,Month-to-month,56,0,0
+Male,1,No,35,Yes,No,DSL,One year,95,1,0
+Male,0,No,35,Yes,Yes,Fiber optic,Month-to-month,75,1,0
+Female,0,Yes,50,Yes,Yes,DSL,Month-to-month,84,0,0
+Female,0,Yes,11,Yes,No,DSL,Month-to-month,20,0,0
+Male,0,Yes,36,No,No,DSL,Month-to-month,61,0,0
+Female,0,No,71,No,Yes,Fiber optic,Month-to-month,58,0,0
+Female,0,No,2,Yes,No,Fiber optic,Month-to-month,50,1,0
+Female,0,Yes,25,Yes,Yes,Fiber optic,Month-to-month,19,0,0
+Male,0,Yes,40,Yes,No,DSL,One year,20,0,0
+Female,0,No,1,Yes,No,DSL,Two year,76,1,1
+Female,0,Yes,52,Yes,No,DSL,Month-to-month,84,0,0
+Male,0,No,11,Yes,No,DSL,Two year,45,0,0
+Female,0,No,6,Yes,No,DSL,Month-to-month,21,0,0
+Female,0,No,38,Yes,Yes,Fiber optic,Month-to-month,20,0,0
+Female,0,No,67,Yes,No,DSL,Month-to-month,66,0,0
+Female,0,No,1,Yes,Yes,DSL,Two year,75,1,1
+Male,0,No,66,Yes,No,DSL,Two year,25,0,0
+Male,0,Yes,13,Yes,Yes,Fiber optic,One year,24,0,0
+Male,0,No,9,Yes,No,Fiber optic,Month-to-month,86,0,1
+Male,0,Yes,37,No,No,Fiber optic,Month-to-month,40,1,0
+Male,0,Yes,8,Yes,No,Fiber optic,Month-to-month,95,0,1
+Male,0,No,56,Yes,No,DSL,One year,101,0,0
+Male,0,No,65,Yes,No,DSL,Month-to-month,74,0,0
+Male,0,Yes,12,Yes,Yes,DSL,One year,21,0,0
+Female,0,No,51,Yes,No,DSL,One year,112,0,0
+Female,1,No,43,Yes,Yes,Fiber optic,Month-to-month,90,0,0
+Male,0,Yes,4,Yes,No,DSL,Two year,49,1,0
+Male,1,No,29,Yes,No,DSL,Two year,96,1,1
+Female,0,No,44,Yes,Yes,Fiber optic,Month-to-month,96,1,0
+Male,1,No,12,Yes,No,DSL,Month-to-month,73,0,1
+Female,0,Yes,67,Yes,Yes,Fiber optic,One year,109,0,0
+Male,0,No,28,Yes,No,DSL,Two year,97,0,0
+Male,0,No,2,Yes,No,DSL,Two year,20,0,0
+Male,0,No,64,Yes,Yes,Fiber optic,One year,89,0,0
+Female,0,No,26,Yes,No,Fiber optic,Month-to-month,82,0,0
+Male,0,No,40,Yes,Yes,DSL,Two year,97,1,0
+Female,0,No,41,Yes,Yes,DSL,Month-to-month,70,1,0
+Male,0,Yes,4,Yes,Yes,Fiber optic,Month-to-month,51,1,0
+Male,0,No,1,Yes,No,DSL,Month-to-month,90,1,1
+Male,0,No,40,Yes,Yes,Fiber optic,Two year,71,0,0
+Male,0,No,13,Yes,No,DSL,One year,91,1,0
+Male,0,No,12,Yes,No,Fiber optic,Two year,60,1,0
+Female,1,No,62,Yes,No,Fiber optic,Month-to-month,80,0,0
+Female,0,No,1,Yes,No,Fiber optic,Month-to-month,44,0,0
+Male,0,Yes,69,Yes,No,Fiber optic,Month-to-month,79,0,0
+Male,0,No,72,Yes,No,DSL,Month-to-month,116,0,0
+Female,0,No,1,Yes,Yes,DSL,Two year,70,1,1
+Female,0,No,1,Yes,No,Fiber optic,Month-to-month,52,1,0
+Female,0,Yes,27,Yes,No,Fiber optic,Month-to-month,24,0,0
+Female,0,No,1,Yes,Yes,Fiber optic,Two year,80,1,1
+Female,0,No,3,Yes,No,Fiber optic,Month-to-month,95,1,1
+Male,0,No,69,Yes,No,DSL,Month-to-month,20,0,0
+Female,1,No,50,Yes,No,DSL,Month-to-month,105,0,0
+Female,0,Yes,10,Yes,No,Fiber optic,Month-to-month,66,0,0
+Male,0,No,14,Yes,Yes,Fiber optic,Month-to-month,20,0,0
+Female,0,Yes,72,Yes,Yes,Fiber optic,Month-to-month,77,0,0
+Male,0,No,2,Yes,No,Fiber optic,Month-to-month,49,0,0
+Male,0,No,69,Yes,No,DSL,Two year,82,0,0
+Female,0,Yes,43,Yes,Yes,Fiber optic,One year,64,0,0
+Male,0,No,49,Yes,Yes,Fiber optic,Month-to-month,66,0,0
+Female,0,Yes,29,Yes,No,DSL,Two year,20,0,0
+Male,0,No,4,Yes,No,DSL,One year,20,0,0
+Female,1,No,55,Yes,Yes,Fiber optic,One year,89,0,0
+Female,0,Yes,33,Yes,No,DSL,One year,58,0,0
+Male,0,Yes,61,Yes,No,DSL,One year,98,0,0
+Male,0,No,1,Yes,Yes,Fiber optic,Two year,85,1,1
+Male,0,Yes,5,Yes,Yes,DSL,Month-to-month,20,0,0
+Female,0,Yes,31,Yes,No,DSL,One year,104,1,0
+Female,0,No,16,Yes,Yes,Fiber optic,Two year,20,0,0
+Female,0,No,72,Yes,Yes,Fiber optic,One year,88,0,0
+Male,0,Yes,2,Yes,No,DSL,Month-to-month,90,1,1
+Female,0,Yes,58,No,No,Fiber optic,Month-to-month,60,0,0
+Male,0,No,56,Yes,Yes,Fiber optic,Month-to-month,20,0,0
+Female,0,No,25,Yes,Yes,Fiber optic,Two year,71,0,0
+Male,0,Yes,1,Yes,No,DSL,Two year,70,0,1
+Female,0,No,43,Yes,No,Fiber optic,One year,65,0,0
+Female,0,No,71,Yes,Yes,DSL,Two year,94,1,0
+Male,0,Yes,38,Yes,Yes,Fiber optic,Month-to-month,85,0,0
+Female,0,No,12,Yes,No,DSL,One year,45,0,0
+Male,0,No,35,Yes,Yes,DSL,Month-to-month,69,0,0
+Male,1,No,65,Yes,No,Fiber optic,One year,71,0,0
+Male,0,Yes,44,Yes,No,DSL,Month-to-month,20,0,0
+Male,0,Yes,21,Yes,No,Fiber optic,Month-to-month,76,0,0
+Male,0,No,6,Yes,No,Fiber optic,Month-to-month,21,0,0
+Female,0,No,42,Yes,No,DSL,One year,86,0,0
+Male,0,Yes,1,Yes,No,DSL,Month-to-month,75,0,1
+Female,0,Yes,3,Yes,Yes,DSL,Month-to-month,44,1,0
+Female,0,No,7,Yes,Yes,Fiber optic,Two year,20,0,0
+Female,0,No,16,Yes,No,Fiber optic,Month-to-month,20,0,0
+Female,0,No,5,Yes,Yes,DSL,Month-to-month,54,0,1
+Female,0,Yes,19,Yes,Yes,DSL,One year,20,0,0
+Female,0,Yes,3,No,No,Fiber optic,Month-to-month,30,1,0
+Female,0,No,3,Yes,No,Fiber optic,Month-to-month,76,0,1
+Male,0,No,44,Yes,No,DSL,Two year,71,0,0
+Male,0,No,53,Yes,Yes,DSL,Two year,24,0,0
+Male,0,No,69,Yes,Yes,Fiber optic,One year,24,0,0
+Male,1,No,70,Yes,Yes,Fiber optic,Month-to-month,103,1,0
+Male,1,No,27,Yes,Yes,Fiber optic,Month-to-month,105,0,1
+Female,0,No,1,Yes,Yes,Fiber optic,Two year,20,0,0
+Male,1,No,55,Yes,No,Fiber optic,Month-to-month,99,1,0
+Female,1,No,60,No,No,DSL,Month-to-month,49,0,0
+Male,0,Yes,14,Yes,No,DSL,Month-to-month,20,0,0
+Male,0,Yes,28,Yes,Yes,DSL,Month-to-month,92,0,0
+Female,0,No,41,Yes,No,DSL,Two year,69,0,0
+Female,0,Yes,48,Yes,No,Fiber optic,One year,70,0,0
+Female,0,No,7,Yes,Yes,Fiber optic,Month-to-month,79,0,1
+Female,0,No,1,Yes,Yes,DSL,Month-to-month,50,0,1
+Male,1,No,30,Yes,No,DSL,Month-to-month,75,0,0
+Female,0,No,15,Yes,Yes,Fiber optic,Month-to-month,56,1,0
+Male,0,No,33,Yes,Yes,DSL,Two year,73,0,0
+Female,1,Yes,31,Yes,No,DSL,Month-to-month,99,1,0
+Female,0,No,46,No,Yes,Fiber optic,Two year,46,0,0
+Male,0,Yes,9,Yes,No,DSL,Month-to-month,50,0,0
+Male,0,Yes,63,Yes,Yes,Fiber optic,Month-to-month,19,0,0
+Female,0,No,65,Yes,Yes,Fiber optic,Two year,90,0,0
+Male,0,Yes,52,No,No,DSL,Two year,44,0,0
+Female,0,No,2,Yes,No,DSL,Month-to-month,80,1,1
+Male,0,Yes,33,Yes,No,DSL,Month-to-month,82,0,0
+Male,0,Yes,4,No,Yes,DSL,One year,39,0,0
+Male,0,No,13,Yes,No,Fiber optic,Month-to-month,83,1,1
+Male,0,No,71,Yes,No,Fiber optic,Month-to-month,109,0,0
+Female,0,Yes,70,Yes,Yes,Fiber optic,Month-to-month,75,0,0
+Male,0,No,46,Yes,No,DSL,Month-to-month,89,0,0
+Male,0,No,55,Yes,No,Fiber optic,Month-to-month,64,0,0
+Female,1,No,27,Yes,Yes,Fiber optic,Month-to-month,85,1,0
+Male,0,No,56,Yes,No,Fiber optic,Month-to-month,26,0,0
+Female,0,No,2,Yes,No,DSL,Two year,20,0,0
+Female,0,No,2,Yes,No,DSL,One year,20,0,0
+Female,0,Yes,54,Yes,Yes,DSL,Month-to-month,86,0,0
+Female,0,Yes,67,Yes,No,Fiber optic,Month-to-month,94,1,0
+Female,0,No,39,Yes,No,DSL,Month-to-month,103,1,0
+Female,0,Yes,55,Yes,Yes,DSL,Two year,85,0,0
+Male,0,No,18,Yes,No,DSL,Month-to-month,70,0,0
+Male,0,No,49,Yes,Yes,Fiber optic,Month-to-month,95,0,0
+Female,0,Yes,72,Yes,Yes,Fiber optic,One year,84,0,0
+Male,0,No,35,Yes,Yes,Fiber optic,Two year,61,0,0
+Female,1,No,72,Yes,No,DSL,Month-to-month,78,0,0
+Male,0,No,63,Yes,Yes,DSL,Two year,80,0,0
+Female,0,No,1,Yes,Yes,Fiber optic,Month-to-month,46,1,0
+Female,0,No,58,Yes,No,DSL,One year,24,0,0
+Male,0,No,40,Yes,No,DSL,Month-to-month,104,1,0
+Female,0,Yes,37,Yes,No,DSL,Month-to-month,89,0,0
+Male,0,No,14,Yes,No,DSL,One year,19,0,0
+Female,0,No,9,Yes,Yes,Fiber optic,One year,80,1,1
+Female,0,No,26,Yes,Yes,Fiber optic,Month-to-month,75,1,0
+Female,1,No,15,Yes,Yes,DSL,Two year,92,0,1
+Female,0,Yes,72,No,No,DSL,Month-to-month,64,0,0
+Female,0,No,32,Yes,No,DSL,One year,21,0,0
+Male,0,No,6,Yes,Yes,Fiber optic,One year,19,0,0
+Female,0,Yes,24,No,No,DSL,Month-to-month,58,0,0
+Male,0,No,7,Yes,No,DSL,Two year,96,0,1
+Female,0,No,4,Yes,No,DSL,Month-to-month,20,0,0
+Male,0,Yes,72,Yes,No,DSL,Month-to-month,70,0,0
+Male,0,Yes,16,Yes,Yes,Fiber optic,Month-to-month,56,0,0
+Female,1,No,72,Yes,No,DSL,Month-to-month,89,0,0
+Male,1,No,35,Yes,Yes,Fiber optic,One year,95,0,0
+Female,0,Yes,44,Yes,No,DSL,Month-to-month,94,0,0
+Male,0,No,39,Yes,Yes,Fiber optic,Month-to-month,81,0,0
+Male,0,No,53,Yes,No,DSL,One year,94,1,0
+Female,0,No,71,Yes,Yes,Fiber optic,Month-to-month,20,0,0
+Male,0,No,67,Yes,No,DSL,Month-to-month,116,1,0
+Male,0,No,51,Yes,Yes,Fiber optic,Month-to-month,60,0,0
+Female,0,No,7,Yes,No,DSL,One year,21,0,0
+Female,0,No,26,Yes,Yes,Fiber optic,One year,26,0,0
+Male,0,No,19,Yes,No,DSL,Month-to-month,19,0,0
+Male,0,No,61,Yes,No,DSL,Two year,99,0,0
+Female,0,No,70,Yes,No,DSL,Month-to-month,110,1,0
+Female,0,No,17,Yes,No,DSL,Month-to-month,69,0,0
+Female,0,Yes,66,Yes,No,DSL,Two year,67,0,0
+Female,0,No,27,Yes,No,DSL,Two year,95,0,0
+Male,0,No,1,Yes,No,DSL,Month-to-month,79,1,1
+Male,0,No,1,Yes,No,Fiber optic,Month-to-month,85,0,1
+Female,0,No,1,Yes,Yes,Fiber optic,One year,20,0,0
+Female,0,Yes,72,Yes,No,Fiber optic,Two year,110,0,0
+Female,0,Yes,52,Yes,No,DSL,Two year,20,0,0
+Female,0,No,3,Yes,No,DSL,Month-to-month,75,0,1
+Female,0,No,54,Yes,Yes,Fiber optic,Month-to-month,97,0,0
+Male,0,No,26,Yes,No,DSL,One year,84,1,0
+Male,0,No,9,Yes,No,Fiber optic,Month-to-month,94,0,1
+Female,0,No,51,Yes,Yes,DSL,Month-to-month,60,0,0
+Female,0,No,2,Yes,No,DSL,Month-to-month,20,0,0
+Male,0,No,3,Yes,No,DSL,One year,90,0,1
+Male,0,No,22,Yes,No,Fiber optic,Month-to-month,20,0,0
+Male,0,No,5,Yes,Yes,Fiber optic,One year,20,0,0
+Male,1,No,16,Yes,Yes,Fiber optic,One year,85,0,1
+Female,0,No,59,Yes,No,DSL,One year,93,0,0
+Female,0,Yes,28,Yes,Yes,Fiber optic,Month-to-month,20,0,0
+Male,1,No,1,Yes,No,DSL,Month-to-month,76,1,1
+Female,0,Yes,22,Yes,No,DSL,Two year,25,0,0
+Male,0,No,41,Yes,Yes,DSL,Two year,105,1,0
+Male,0,No,15,Yes,No,DSL,Month-to-month,20,0,0
+Female,0,No,40,Yes,No,Fiber optic,Month-to-month,106,0,0
+Female,0,No,42,Yes,Yes,DSL,Month-to-month,68,0,0
+Male,0,No,2,Yes,No,DSL,One year,86,1,1
+Male,0,No,26,Yes,No,DSL,Month-to-month,20,0,0
+Male,1,No,20,Yes,No,Fiber optic,Month-to-month,71,1,0
+Female,1,No,30,Yes,No,DSL,Month-to-month,104,0,1
+Male,0,No,24,Yes,No,Fiber optic,One year,56,1,0
+Female,0,Yes,5,No,No,Fiber optic,Month-to-month,25,0,0
+Male,0,No,1,Yes,Yes,Fiber optic,One year,21,0,0
+Male,0,No,26,Yes,No,DSL,Month-to-month,76,0,0
+Male,0,Yes,72,No,No,DSL,Month-to-month,38,0,0
+Female,0,Yes,71,No,No,DSL,Two year,60,0,0
+Male,1,No,1,No,No,DSL,Month-to-month,43,1,1
+Male,0,No,5,Yes,Yes,Fiber optic,One year,85,1,1
+Female,0,Yes,72,No,No,DSL,Month-to-month,54,0,0
+Female,0,No,12,Yes,Yes,Fiber optic,Month-to-month,51,0,0
+Female,0,Yes,63,Yes,No,DSL,Month-to-month,64,0,0
+Male,0,Yes,1,Yes,No,DSL,Month-to-month,70,0,1
+Female,0,No,51,Yes,No,DSL,Month-to-month,25,0,0
+Female,0,Yes,35,Yes,Yes,Fiber optic,Month-to-month,50,0,0
+Male,0,No,28,Yes,No,DSL,Two year,91,0,0
+Female,0,No,7,Yes,Yes,Fiber optic,Month-to-month,78,0,1
+Female,0,No,16,Yes,No,Fiber optic,Month-to-month,86,0,1
+Male,0,No,67,Yes,Yes,DSL,Two year,66,0,0
+Male,0,No,8,Yes,No,Fiber optic,Month-to-month,20,0,0
+Male,0,No,38,Yes,Yes,Fiber optic,One year,111,0,0
+Female,0,Yes,0,Yes,Yes,Fiber optic,Month-to-month,81,0,1
+Female,0,No,45,Yes,Yes,Fiber optic,Month-to-month,74,0,0
+Female,0,Yes,63,Yes,No,DSL,One year,19,0,0
+Female,0,Yes,72,Yes,No,DSL,Two year,116,0,0
+Female,0,No,50,Yes,Yes,DSL,One year,19,0,0
+Male,0,Yes,70,Yes,No,Fiber optic,Month-to-month,90,0,0
+Female,0,No,8,Yes,No,DSL,Two year,19,0,0
+Male,1,No,16,Yes,No,DSL,Month-to-month,87,1,1
+Male,0,No,66,Yes,Yes,Fiber optic,Month-to-month,19,0,0
+Female,1,No,1,Yes,No,DSL,Month-to-month,51,1,1
+Female,0,No,62,Yes,No,DSL,Two year,72,0,0
+Male,1,Yes,43,Yes,No,Fiber optic,Month-to-month,111,1,0
+Male,0,Yes,21,Yes,Yes,Fiber optic,Month-to-month,20,0,0
+Male,0,Yes,55,Yes,Yes,Fiber optic,One year,90,0,0
+Male,1,No,57,Yes,Yes,DSL,Two year,95,1,0
+Male,0,Yes,22,Yes,Yes,Fiber optic,Month-to-month,68,1,0
+Male,0,Yes,28,No,Yes,Fiber optic,Two year,51,0,0
+Female,0,No,24,Yes,No,Fiber optic,Month-to-month,75,1,0
+Male,0,Yes,44,Yes,Yes,Fiber optic,Month-to-month,21,0,0
+Male,0,Yes,3,Yes,Yes,DSL,Two year,20,0,0
+Male,1,No,36,Yes,Yes,Fiber optic,Month-to-month,85,1,0
+Female,0,No,2,Yes,Yes,Fiber optic,Month-to-month,61,0,0
+Female,1,No,62,Yes,No,DSL,Month-to-month,84,0,0
+Female,0,No,64,Yes,Yes,DSL,Two year,68,0,0
+Female,0,No,9,Yes,No,DSL,Month-to-month,77,0,1
+Female,0,No,68,Yes,No,DSL,Month-to-month,26,0,0
+Male,0,Yes,53,Yes,Yes,DSL,Two year,19,0,0
+Male,0,No,32,Yes,No,DSL,Two year,79,0,0
+Female,0,No,2,Yes,No,Fiber optic,Month-to-month,45,0,0
+Female,0,No,8,Yes,No,DSL,Month-to-month,20,0,0
+Female,1,No,28,Yes,Yes,Fiber optic,Month-to-month,64,0,0
+Male,1,No,49,Yes,No,DSL,Month-to-month,90,1,0
+Male,0,No,5,Yes,No,DSL,Month-to-month,21,1,0
+Male,1,No,51,Yes,No,DSL,Month-to-month,94,1,0
+Female,0,Yes,26,No,No,DSL,Month-to-month,46,0,0
+Female,0,No,2,Yes,Yes,DSL,Two year,20,0,0
+Male,0,No,47,Yes,No,Fiber optic,Month-to-month,20,0,0
+Female,1,No,60,Yes,No,DSL,Month-to-month,101,0,0
+Male,0,No,4,Yes,No,Fiber optic,Month-to-month,20,0,0
+Female,0,Yes,12,Yes,No,DSL,Month-to-month,20,0,0
+Female,1,No,15,Yes,No,DSL,One year,96,1,1
+Male,0,No,63,Yes,No,DSL,Month-to-month,19,0,0
+Male,1,No,3,No,Yes,Fiber optic,Month-to-month,41,1,1
+Female,0,Yes,3,Yes,No,DSL,Month-to-month,80,1,1
+Female,0,No,53,Yes,Yes,Fiber optic,Month-to-month,21,1,0
+Male,0,No,3,Yes,Yes,Fiber optic,Month-to-month,99,1,1
+Female,0,Yes,5,Yes,Yes,Fiber optic,Month-to-month,45,0,0
+Female,0,No,1,Yes,Yes,DSL,Two year,51,1,0
+Male,0,No,17,Yes,Yes,Fiber optic,Month-to-month,52,1,0
+Male,0,No,11,Yes,No,DSL,Two year,20,0,0
+Male,0,No,1,Yes,Yes,DSL,Two year,45,0,0
+Male,0,No,30,Yes,No,DSL,Month-to-month,90,0,0
+Female,0,No,1,Yes,No,Fiber optic,One year,20,0,0
+Male,0,Yes,41,Yes,No,DSL,One year,68,0,0
+Female,0,No,13,No,No,Fiber optic,Month-to-month,32,0,0
+Female,0,Yes,19,Yes,Yes,DSL,Month-to-month,26,0,0
+Male,0,Yes,1,No,Yes,Fiber optic,One year,31,1,0
+Female,0,No,30,Yes,No,DSL,One year,75,0,0
+Male,0,No,14,Yes,No,DSL,Month-to-month,49,0,0
+Female,0,No,25,Yes,No,DSL,One year,19,0,0
+Female,0,Yes,6,Yes,No,Fiber optic,Month-to-month,55,0,0
+Female,1,No,34,Yes,Yes,Fiber optic,Month-to-month,96,0,0
+Female,0,No,72,Yes,Yes,DSL,Two year,92,0,0
+Male,0,No,18,Yes,Yes,Fiber optic,Month-to-month,81,1,0
+Female,1,No,27,Yes,Yes,Fiber optic,Month-to-month,88,1,0
+Male,0,Yes,71,Yes,No,DSL,Two year,106,0,0
+Female,0,No,16,Yes,No,DSL,Month-to-month,91,0,1
+Female,0,No,59,Yes,Yes,Fiber optic,Month-to-month,83,0,0
+Female,0,No,1,Yes,Yes,Fiber optic,Month-to-month,70,1,1
+Female,0,No,3,Yes,Yes,DSL,Two year,95,0,1
+Female,0,No,54,Yes,Yes,DSL,Month-to-month,107,1,0
+Female,0,No,23,Yes,No,DSL,One year,79,1,0
+Female,0,No,4,Yes,Yes,Fiber optic,Two year,70,1,1
+Male,1,No,17,Yes,No,DSL,Month-to-month,95,0,1
+Male,0,No,72,Yes,No,DSL,Month-to-month,104,0,0
+Female,0,Yes,62,Yes,Yes,Fiber optic,Month-to-month,111,0,0
+Male,0,No,3,Yes,No,Fiber optic,Month-to-month,80,1,1
+Male,0,No,68,Yes,Yes,DSL,One year,25,0,0
+Male,0,No,6,Yes,Yes,DSL,Month-to-month,21,0,0
+Female,0,No,30,Yes,No,DSL,One year,79,0,0
+Male,0,Yes,3,Yes,No,Fiber optic,Month-to-month,92,1,1
+Male,0,No,2,Yes,No,DSL,One year,80,1,1
+Female,1,No,37,Yes,No,DSL,One year,76,1,0
+Female,0,Yes,50,Yes,Yes,Fiber optic,Month-to-month,21,0,0
+Female,0,No,51,Yes,Yes,DSL,Month-to-month,20,0,0
+Male,0,No,59,Yes,No,DSL,Month-to-month,100,1,0
+Female,0,No,4,No,No,DSL,One year,24,1,0
+Male,0,Yes,25,Yes,No,Fiber optic,Month-to-month,55,0,0
+Female,1,No,29,Yes,No,DSL,One year,99,1,0
+Female,0,No,5,Yes,No,DSL,Month-to-month,83,0,1
+Female,0,No,29,No,No,DSL,Month-to-month,40,0,0
+Male,0,No,64,Yes,No,DSL,One year,81,0,0
+Female,0,Yes,65,Yes,No,Fiber optic,Month-to-month,90,0,0
+Male,0,No,21,Yes,No,Fiber optic,One year,106,1,0
+Male,0,No,14,Yes,No,DSL,One year,56,0,0
+Male,0,No,54,Yes,Yes,Fiber optic,Two year,65,0,0
+Female,0,No,34,Yes,Yes,DSL,One year,20,0,0
+Male,0,No,23,Yes,No,DSL,Month-to-month,65,0,0
+Female,0,No,12,Yes,No,Fiber optic,Month-to-month,99,1,1
+Female,1,No,13,Yes,No,DSL,Month-to-month,82,1,1
+Female,0,Yes,12,Yes,Yes,Fiber optic,One year,19,0,0
+Female,0,No,6,Yes,Yes,DSL,Two year,50,0,0
+Male,1,No,1,Yes,Yes,Fiber optic,Two year,94,1,1
+Male,0,Yes,69,Yes,No,DSL,Month-to-month,82,0,0
+Male,1,No,27,Yes,No,Fiber optic,One year,85,0,0
+Female,0,Yes,67,Yes,Yes,Fiber optic,Month-to-month,94,0,0
+Male,1,No,71,Yes,No,Fiber optic,One year,115,0,0
+Female,0,Yes,11,No,Yes,Fiber optic,Two year,36,0,0
+Male,1,No,1,Yes,No,DSL,Month-to-month,72,1,1
+Female,0,Yes,70,Yes,Yes,Fiber optic,Two year,94,1,0
+Male,1,No,3,Yes,No,Fiber optic,Month-to-month,105,1,1
+Female,0,No,10,Yes,No,DSL,Month-to-month,80,1,1
+Male,0,No,14,Yes,No,DSL,One year,45,0,0
+Female,0,No,65,Yes,Yes,Fiber optic,One year,85,0,0
+Male,0,No,46,Yes,No,Fiber optic,Month-to-month,19,0,0
+Female,0,Yes,62,No,No,Fiber optic,One year,49,0,0
+Female,0,Yes,5,Yes,Yes,DSL,Two year,49,0,0
+Male,1,No,13,Yes,Yes,Fiber optic,Month-to-month,60,0,0
+Male,0,Yes,2,Yes,No,Fiber optic,Month-to-month,20,0,0
+Male,0,Yes,47,Yes,Yes,Fiber optic,One year,99,1,0
+Male,0,Yes,22,Yes,No,Fiber optic,Month-to-month,20,0,0
+Female,0,No,30,Yes,No,DSL,Month-to-month,69,0,0
+Female,0,No,18,Yes,No,Fiber optic,Month-to-month,100,1,1
+Male,0,No,9,Yes,Yes,Fiber optic,One year,74,0,0
+Female,1,No,39,Yes,Yes,DSL,Month-to-month,99,0,1
+Male,0,Yes,53,Yes,No,DSL,Month-to-month,20,0,0
+Male,0,Yes,72,Yes,Yes,DSL,One year,106,0,0
+Female,0,No,22,Yes,No,Fiber optic,Month-to-month,50,0,0
+Male,0,Yes,53,Yes,Yes,Fiber optic,One year,63,0,0
+Female,0,No,2,Yes,No,DSL,Month-to-month,59,0,1
+Male,0,No,9,Yes,Yes,Fiber optic,One year,86,0,1
+Male,0,No,7,Yes,Yes,Fiber optic,Month-to-month,74,1,1
+Female,0,No,36,Yes,Yes,Fiber optic,Month-to-month,86,0,0
+Male,0,No,8,Yes,Yes,Fiber optic,One year,67,0,0
+Male,0,Yes,61,Yes,Yes,DSL,Month-to-month,106,1,0
+Female,1,No,59,Yes,No,DSL,Two year,100,0,0
+Male,0,Yes,28,Yes,No,Fiber optic,Month-to-month,85,0,0
+Male,1,No,34,Yes,No,DSL,Month-to-month,100,0,0
+Female,1,No,13,Yes,No,DSL,Two year,101,1,1
+Female,0,No,18,Yes,No,DSL,Month-to-month,96,0,1
+Male,1,No,27,No,Yes,Fiber optic,Month-to-month,36,1,0
+Male,0,No,57,No,No,DSL,One year,54,0,0
+Female,0,No,9,No,No,DSL,One year,41,0,0
+Male,0,No,24,Yes,No,DSL,Month-to-month,94,0,0
+Female,0,No,1,Yes,Yes,Fiber optic,Month-to-month,20,0,0
+Male,1,No,67,Yes,No,DSL,Month-to-month,116,0,0
+Male,0,Yes,1,Yes,No,DSL,Month-to-month,74,1,1
+Male,1,No,29,Yes,Yes,DSL,Two year,84,0,0
+Female,0,Yes,7,Yes,No,DSL,Two year,69,0,0
+Female,0,Yes,45,No,No,DSL,Two year,51,0,0
+Female,0,No,6,Yes,No,DSL,Month-to-month,110,1,1
+Female,0,No,67,Yes,No,DSL,One year,26,0,0
+Male,0,No,9,Yes,No,Fiber optic,Month-to-month,20,0,0
+Female,0,Yes,52,Yes,Yes,Fiber optic,Two year,101,0,0
+Female,0,No,12,Yes,Yes,DSL,Two year,96,1,1
+Female,0,Yes,69,No,Yes,Fiber optic,Month-to-month,46,0,0
+Male,0,Yes,72,Yes,No,DSL,Two year,25,0,0
+Male,0,No,9,Yes,Yes,Fiber optic,Month-to-month,80,1,1
+Male,0,No,4,Yes,No,DSL,Month-to-month,21,0,0
+Female,0,No,69,Yes,Yes,Fiber optic,Month-to-month,26,0,0
+Female,0,No,4,Yes,Yes,Fiber optic,One year,80,0,1
+Male,0,Yes,49,No,No,DSL,Month-to-month,39,0,0
+Female,0,No,15,Yes,No,Fiber optic,Month-to-month,84,1,1
+Female,0,Yes,12,Yes,Yes,Fiber optic,Month-to-month,20,0,0
+Male,1,No,3,No,No,Fiber optic,One year,36,1,1
+Female,0,No,2,Yes,No,DSL,One year,81,1,1
+Male,0,Yes,26,No,Yes,Fiber optic,Month-to-month,40,0,0
+Male,0,No,19,Yes,No,DSL,Month-to-month,90,0,0
+Male,0,No,9,Yes,No,DSL,One year,70,0,0
+Male,0,Yes,1,Yes,No,DSL,Month-to-month,50,0,0
+Female,0,Yes,24,Yes,Yes,Fiber optic,Month-to-month,20,0,0
+Male,1,No,72,Yes,No,Fiber optic,Month-to-month,25,0,0
+Female,0,Yes,71,Yes,Yes,DSL,Month-to-month,78,0,0
+Female,0,No,48,Yes,No,DSL,Two year,83,0,0
+Female,0,No,1,Yes,No,DSL,One year,26,0,0
+Female,0,Yes,24,Yes,Yes,Fiber optic,Two year,21,0,0
+Female,0,No,58,Yes,No,DSL,Month-to-month,109,0,0
+Female,0,Yes,50,Yes,No,Fiber optic,Month-to-month,70,0,0
+Male,0,Yes,43,Yes,No,DSL,Month-to-month,24,0,0
+Female,0,No,55,Yes,No,Fiber optic,Month-to-month,51,0,0
+Male,0,No,6,Yes,No,DSL,Month-to-month,85,1,1
+Female,0,No,72,Yes,No,DSL,Month-to-month,83,0,0
+Male,0,Yes,1,Yes,No,DSL,One year,20,1,0
+Male,0,Yes,27,Yes,No,DSL,One year,81,0,0
+Male,0,Yes,50,Yes,No,DSL,Two year,104,1,0
+Female,0,No,63,Yes,Yes,Fiber optic,Month-to-month,96,0,0
+Male,0,Yes,55,Yes,No,DSL,Month-to-month,20,0,0
+Male,0,No,59,Yes,No,DSL,Two year,69,0,0
+Female,0,Yes,14,Yes,No,DSL,One year,85,0,0
+Male,0,No,8,Yes,No,DSL,Two year,55,0,0
+Female,0,No,2,Yes,No,DSL,Month-to-month,71,1,1
+Female,0,No,47,Yes,No,DSL,One year,75,0,0
+Male,0,No,13,Yes,No,Fiber optic,Month-to-month,80,1,1
+Male,0,No,61,Yes,No,DSL,One year,106,1,0
+Female,0,No,4,Yes,Yes,Fiber optic,Month-to-month,20,1,0
+Female,0,No,12,Yes,Yes,DSL,Two year,80,0,0
+Male,0,Yes,62,Yes,No,Fiber optic,Month-to-month,71,0,0
+Female,0,No,52,No,No,DSL,One year,66,0,0
+Female,0,No,52,Yes,Yes,Fiber optic,Two year,59,0,0
+Female,1,No,18,Yes,Yes,Fiber optic,Month-to-month,85,1,1
+Male,0,Yes,15,Yes,Yes,DSL,Two year,25,0,0
+Male,0,Yes,8,Yes,Yes,Fiber optic,Month-to-month,20,0,0
+Female,1,No,1,Yes,No,DSL,One year,56,1,1
+Female,0,No,40,Yes,No,DSL,Month-to-month,19,0,0
+Male,0,Yes,51,No,No,DSL,One year,59,1,0
+Male,0,No,20,No,No,Fiber optic,Month-to-month,55,0,0
+Male,0,No,1,Yes,No,DSL,Two year,44,1,0
+Male,0,No,59,Yes,Yes,DSL,Month-to-month,65,0,0
+Male,1,No,52,Yes,Yes,DSL,Month-to-month,104,1,0
+Male,0,No,42,Yes,No,DSL,Month-to-month,56,0,0
+Female,0,No,57,Yes,No,DSL,One year,104,1,0
+Male,0,No,1,Yes,Yes,DSL,Month-to-month,49,0,0
+Male,1,Yes,65,Yes,Yes,Fiber optic,Month-to-month,86,0,0
+Male,1,No,70,Yes,No,DSL,One year,90,0,0
+Male,0,No,66,Yes,No,Fiber optic,Two year,85,0,0
+Female,0,No,4,Yes,Yes,Fiber optic,Month-to-month,51,0,0
+Female,1,No,49,Yes,Yes,Fiber optic,Month-to-month,103,0,0
+Female,1,No,26,Yes,No,DSL,Month-to-month,94,1,1
+Male,0,No,5,Yes,No,DSL,One year,19,1,0
+Male,1,Yes,1,Yes,No,DSL,Month-to-month,50,1,1
+Female,0,Yes,3,No,No,DSL,One year,30,0,0
+Male,0,No,25,Yes,No,DSL,Month-to-month,96,0,0
+Female,0,Yes,44,Yes,No,DSL,One year,20,0,0
+Female,1,No,29,No,Yes,Fiber optic,Month-to-month,45,0,0
+Male,0,Yes,26,Yes,Yes,Fiber optic,Month-to-month,82,0,0
+Male,0,No,2,Yes,Yes,Fiber optic,Month-to-month,70,0,1
+Female,0,No,30,Yes,Yes,Fiber optic,Month-to-month,20,1,0
+Female,0,No,2,Yes,Yes,Fiber optic,Two year,45,0,0
+Female,0,Yes,59,Yes,Yes,Fiber optic,Month-to-month,76,0,0
+Female,0,Yes,9,Yes,Yes,Fiber optic,One year,73,1,0
+Male,0,No,42,Yes,No,DSL,Month-to-month,106,1,0
+Male,0,No,6,Yes,No,Fiber optic,Month-to-month,59,0,0
+Female,0,No,64,Yes,No,Fiber optic,Month-to-month,85,0,0
+Female,1,No,1,Yes,No,DSL,Month-to-month,101,1,1
+Male,0,No,1,Yes,No,DSL,Month-to-month,81,1,1
+Male,1,No,53,No,Yes,DSL,Two year,54,1,0
+Male,1,No,18,Yes,Yes,DSL,Two year,94,0,1
+Female,1,No,33,No,Yes,DSL,One year,59,0,0
+Male,1,No,16,Yes,No,DSL,Month-to-month,99,1,1
+Female,0,No,49,Yes,Yes,Fiber optic,Month-to-month,20,0,0
+Male,0,Yes,8,Yes,No,Fiber optic,Month-to-month,76,0,1
+Male,0,No,2,Yes,No,Fiber optic,Month-to-month,20,0,0
+Female,0,No,18,Yes,Yes,Fiber optic,Month-to-month,78,0,0
+Male,0,No,1,Yes,No,DSL,Month-to-month,56,0,1
+Male,0,No,1,Yes,No,DSL,Two year,44,0,0
+Male,0,No,12,Yes,No,Fiber optic,Month-to-month,75,0,0
+Female,1,No,53,Yes,Yes,DSL,Two year,25,0,0
+Male,1,No,69,No,Yes,Fiber optic,Month-to-month,30,0,0
+Female,0,Yes,51,Yes,No,DSL,Month-to-month,20,0,0
+Female,0,No,24,Yes,No,DSL,Month-to-month,56,0,0
+Male,0,No,69,Yes,Yes,Fiber optic,Month-to-month,19,0,0
+Female,1,No,54,Yes,No,DSL,Month-to-month,102,1,0
+Female,0,No,41,Yes,No,Fiber optic,Month-to-month,75,0,0
+Female,0,No,6,No,Yes,Fiber optic,Month-to-month,45,0,0
+Male,0,No,3,Yes,No,DSL,Month-to-month,70,0,1
+Female,1,Yes,72,Yes,Yes,DSL,Month-to-month,90,0,0
+Male,0,Yes,31,Yes,Yes,Fiber optic,Month-to-month,26,0,0
+Female,0,No,8,Yes,No,Fiber optic,Month-to-month,58,0,0
+Female,1,No,17,Yes,Yes,Fiber optic,Month-to-month,94,0,1
+Male,0,No,64,Yes,Yes,Fiber optic,Month-to-month,102,0,0
+Male,0,No,7,Yes,No,Fiber optic,Month-to-month,100,1,1
+Female,0,No,3,Yes,No,DSL,One year,97,1,1
+Female,0,No,25,Yes,No,DSL,One year,100,1,0
+Male,0,No,63,Yes,No,Fiber optic,Month-to-month,103,1,0
+Female,0,No,1,Yes,Yes,Fiber optic,Month-to-month,75,1,1
+Female,0,Yes,35,Yes,Yes,Fiber optic,Month-to-month,20,0,0
+Female,0,Yes,1,No,No,Fiber optic,One year,25,0,0
+Male,0,No,10,Yes,No,Fiber optic,Month-to-month,75,0,1
+Male,0,Yes,13,Yes,No,DSL,Two year,73,0,0
+Female,1,No,65,Yes,No,DSL,Month-to-month,109,0,0
+Female,0,Yes,35,Yes,No,DSL,Month-to-month,25,0,0
+Female,1,No,26,Yes,No,DSL,One year,95,1,0
+Male,0,No,13,Yes,No,DSL,Month-to-month,70,0,0
+Female,0,No,13,Yes,Yes,DSL,One year,68,0,0
+Male,0,No,13,Yes,Yes,DSL,One year,98,1,0
+Male,1,No,61,Yes,No,DSL,Month-to-month,25,0,0
+Male,0,No,8,Yes,No,DSL,One year,95,1,1
+Male,0,Yes,26,Yes,No,DSL,Month-to-month,19,0,0
+Female,0,No,12,Yes,Yes,Fiber optic,Month-to-month,96,1,1
+Female,1,No,66,Yes,No,DSL,One year,101,0,0
+Male,0,No,1,Yes,No,Fiber optic,Two year,75,0,1
+Female,0,No,58,No,No,DSL,Month-to-month,45,0,0
+Male,1,No,59,Yes,No,Fiber optic,Month-to-month,83,0,0
+Male,1,No,24,Yes,Yes,Fiber optic,Month-to-month,79,1,0
+Male,0,No,10,Yes,No,DSL,One year,70,1,0
+Female,0,No,15,Yes,No,Fiber optic,Month-to-month,56,0,0
+Female,0,No,68,Yes,Yes,Fiber optic,Month-to-month,81,0,0
+Male,0,No,69,Yes,No,DSL,Month-to-month,107,0,0
+Female,0,No,14,Yes,No,DSL,Month-to-month,70,0,1
+Male,0,No,52,Yes,Yes,Fiber optic,Month-to-month,80,0,0
+Female,1,No,47,Yes,Yes,DSL,Month-to-month,80,1,0
+Female,0,No,41,Yes,Yes,Fiber optic,Month-to-month,86,0,0
+Male,0,No,1,Yes,No,DSL,One year,19,1,0
+Male,0,No,50,Yes,Yes,Fiber optic,Two year,94,0,0
+Female,0,No,5,Yes,Yes,Fiber optic,Month-to-month,91,1,1
+Female,0,No,9,Yes,No,DSL,Two year,89,1,1
+Male,1,No,19,Yes,No,DSL,One year,96,1,1
+Female,0,No,61,Yes,No,Fiber optic,Month-to-month,86,0,0
+Female,0,No,66,Yes,No,DSL,Two year,105,0,0
+Male,0,Yes,48,Yes,Yes,Fiber optic,Month-to-month,64,0,0
+Female,1,No,4,Yes,No,DSL,One year,100,1,1
+Female,0,No,12,Yes,No,DSL,Two year,90,1,1
+Female,0,Yes,33,Yes,Yes,Fiber optic,Two year,79,0,0
+Female,0,No,64,Yes,No,DSL,One year,19,0,0
+Male,1,No,7,Yes,No,DSL,Month-to-month,99,1,1
+Male,0,No,20,Yes,No,DSL,Month-to-month,85,1,0
+Female,0,No,52,Yes,No,Fiber optic,Month-to-month,21,0,0
+Female,1,No,26,Yes,Yes,DSL,Month-to-month,61,0,0
+Female,0,No,57,Yes,No,DSL,Month-to-month,20,0,0
+Male,0,No,12,Yes,Yes,DSL,Two year,54,0,0
+Female,0,No,59,Yes,Yes,Fiber optic,Month-to-month,95,0,0
+Female,0,No,57,Yes,No,DSL,One year,95,1,0
+Male,0,No,46,Yes,Yes,Fiber optic,Month-to-month,20,0,0
+Male,0,Yes,30,Yes,No,Fiber optic,Two year,25,0,0
+Male,0,No,27,Yes,No,DSL,Month-to-month,81,0,0
+Female,0,No,28,Yes,No,Fiber optic,Month-to-month,60,0,0
+Male,0,No,8,Yes,No,DSL,Two year,67,0,0
+Male,0,No,6,Yes,No,DSL,Month-to-month,84,1,1
+Female,0,No,8,No,No,DSL,Month-to-month,29,0,1
+Male,0,Yes,40,Yes,Yes,Fiber optic,One year,55,1,0
+Male,0,No,29,Yes,No,DSL,One year,20,0,0
+Male,0,No,30,Yes,Yes,Fiber optic,Month-to-month,50,0,0
+Male,1,No,23,No,Yes,DSL,One year,35,0,0
+Male,1,No,27,Yes,No,DSL,Month-to-month,81,1,0
+Female,0,No,42,Yes,No,DSL,One year,55,0,0
+Male,0,Yes,1,Yes,Yes,DSL,Two year,75,1,1
+Female,0,No,1,No,No,DSL,One year,25,0,1
+Male,0,No,50,Yes,No,DSL,Month-to-month,94,0,0
+Male,0,No,58,Yes,Yes,DSL,Two year,19,0,0
+Female,0,No,26,Yes,Yes,DSL,Two year,87,0,0
+Male,1,No,36,Yes,No,Fiber optic,Month-to-month,54,0,0
+Female,0,Yes,72,Yes,No,Fiber optic,One year,107,0,0
+Male,1,No,47,Yes,Yes,Fiber optic,Month-to-month,100,1,0
+Female,0,Yes,1,Yes,No,Fiber optic,Month-to-month,80,1,1
+Female,0,Yes,58,Yes,No,Fiber optic,Month-to-month,105,0,0
+Female,0,No,4,No,No,Fiber optic,One year,24,1,0
+Male,0,No,13,Yes,No,DSL,Month-to-month,20,0,0
+Male,0,No,68,Yes,No,Fiber optic,Month-to-month,117,0,0
+Male,0,Yes,44,Yes,Yes,DSL,Two year,20,0,0
+Female,0,Yes,10,Yes,Yes,Fiber optic,Month-to-month,20,0,0
+Male,0,No,2,Yes,No,Fiber optic,Month-to-month,80,1,1
+Female,1,No,58,Yes,No,DSL,Month-to-month,106,1,0
+Male,0,Yes,72,Yes,Yes,Fiber optic,Month-to-month,25,0,0
+Male,0,No,1,Yes,No,Fiber optic,Month-to-month,50,1,0
+Female,0,No,26,No,No,Fiber optic,Month-to-month,50,0,0
+Male,0,No,66,Yes,Yes,DSL,Month-to-month,97,0,0
+Male,0,Yes,67,Yes,No,DSL,One year,69,0,0
+Female,0,No,18,Yes,Yes,Fiber optic,Month-to-month,61,0,0
+Male,0,No,54,Yes,No,Fiber optic,Month-to-month,84,0,0
+Female,1,No,47,Yes,No,Fiber optic,Month-to-month,95,1,0
+Female,0,No,19,Yes,Yes,Fiber optic,Month-to-month,95,1,1
+Female,0,Yes,72,Yes,No,Fiber optic,Month-to-month,70,0,0
+Female,0,Yes,58,Yes,No,DSL,Month-to-month,44,0,0
+Male,0,Yes,54,Yes,No,DSL,Month-to-month,63,0,0
+Female,0,No,27,Yes,No,Fiber optic,Month-to-month,89,0,0
+Male,0,No,21,Yes,No,DSL,Month-to-month,62,0,0
+Female,1,No,70,Yes,Yes,Fiber optic,One year,76,0,0
+Male,0,No,71,Yes,No,Fiber optic,Month-to-month,84,0,0
+Female,0,No,1,Yes,Yes,Fiber optic,Month-to-month,76,0,1
+Female,0,No,5,Yes,No,DSL,Month-to-month,76,0,1
+Female,0,No,1,Yes,Yes,Fiber optic,Month-to-month,96,0,1
+Female,0,No,40,No,Yes,Fiber optic,Month-to-month,55,0,0
+Female,0,Yes,28,Yes,Yes,DSL,Month-to-month,83,0,0
+Female,0,Yes,37,Yes,No,Fiber optic,Month-to-month,95,0,0
+Male,0,No,12,Yes,No,DSL,One year,100,1,0
+Male,0,Yes,25,Yes,No,DSL,Month-to-month,26,0,0
+Male,0,No,1,Yes,No,DSL,One year,91,1,1
+Female,0,Yes,0,No,No,DSL,Two year,53,0,1
+Male,0,No,38,Yes,No,DSL,Month-to-month,69,0,0
+Male,1,No,46,Yes,Yes,Fiber optic,One year,85,1,0
+Female,0,No,1,Yes,Yes,DSL,Two year,69,1,1
+Female,0,No,42,Yes,No,Fiber optic,One year,66,0,0
+Female,0,No,3,Yes,No,DSL,One year,51,1,0
+Female,0,No,72,Yes,No,DSL,Month-to-month,109,0,0
+Female,0,No,72,Yes,Yes,DSL,Two year,94,0,0
+Male,0,No,24,Yes,No,DSL,Month-to-month,90,1,0
+Female,0,No,1,Yes,No,Fiber optic,One year,85,0,1
+Female,0,No,29,Yes,Yes,Fiber optic,Month-to-month,19,0,0
+Male,0,No,4,Yes,No,Fiber optic,Month-to-month,19,0,0
+Female,0,No,55,Yes,No,DSL,Month-to-month,90,0,0
+Male,1,No,8,Yes,No,DSL,Month-to-month,70,1,1
+Male,0,No,72,Yes,No,DSL,Two year,86,0,0
+Female,1,No,1,Yes,Yes,DSL,One year,21,1,1
+Female,1,No,9,Yes,No,DSL,Month-to-month,90,0,1
+Female,0,No,3,No,Yes,DSL,One year,25,1,1
+Male,0,No,1,Yes,No,DSL,Month-to-month,74,0,1
+Female,0,No,41,Yes,No,DSL,Month-to-month,25,0,0
+Male,1,No,4,Yes,Yes,Fiber optic,Month-to-month,70,0,1
+Male,0,No,64,Yes,Yes,Fiber optic,Month-to-month,105,0,0
+Male,0,Yes,51,Yes,No,DSL,Two year,48,0,0
+Male,0,No,2,Yes,Yes,Fiber optic,Month-to-month,91,0,1
+Female,0,Yes,58,No,Yes,DSL,Two year,56,0,0
+Female,1,No,20,Yes,No,DSL,Two year,60,0,0
+Female,0,No,61,Yes,No,Fiber optic,Month-to-month,115,0,0
+Male,0,No,64,Yes,No,DSL,One year,100,0,0
+Male,0,Yes,60,Yes,No,Fiber optic,Month-to-month,91,1,0
+Male,0,No,2,Yes,No,Fiber optic,Month-to-month,75,0,1
+Female,0,No,20,Yes,No,DSL,Two year,19,0,0
+Male,1,No,1,Yes,Yes,Fiber optic,Month-to-month,74,1,1
+Female,0,Yes,24,Yes,Yes,Fiber optic,Month-to-month,79,0,0
+Male,0,Yes,66,Yes,No,DSL,Two year,80,0,0
+Male,1,No,44,Yes,No,DSL,Month-to-month,88,1,0
+Female,0,No,4,Yes,No,DSL,One year,70,1,1
+Male,0,No,34,Yes,Yes,Fiber optic,Month-to-month,50,0,0
+Male,0,No,1,Yes,No,DSL,One year,70,1,1
+Male,0,No,69,Yes,Yes,Fiber optic,Month-to-month,105,1,0
+Male,0,No,42,Yes,Yes,Fiber optic,Month-to-month,95,1,0
+Female,0,No,49,Yes,No,DSL,Two year,101,0,0
+Male,0,No,1,Yes,No,DSL,One year,44,0,0
+Female,0,No,13,Yes,No,DSL,Two year,89,1,1
+Male,1,No,64,Yes,Yes,Fiber optic,Month-to-month,102,0,0
+Male,0,Yes,27,Yes,No,Fiber optic,Month-to-month,55,0,0
+Male,1,No,17,Yes,No,DSL,Month-to-month,82,1,1
+Female,1,No,45,No,No,Fiber optic,One year,34,0,0
+Male,0,No,38,Yes,No,DSL,Month-to-month,20,0,0
+Male,0,No,17,Yes,Yes,Fiber optic,Month-to-month,65,0,0
+Female,0,No,44,Yes,No,DSL,Month-to-month,95,0,0
+Female,1,No,1,Yes,No,DSL,Month-to-month,71,1,1
+Male,0,No,52,Yes,No,DSL,Two year,96,0,0
+Female,0,No,3,Yes,No,Fiber optic,Month-to-month,20,0,0
+Male,0,No,37,Yes,No,Fiber optic,Month-to-month,20,0,0
+Female,0,No,2,No,Yes,Fiber optic,Two year,24,0,0
+Female,0,Yes,69,Yes,No,DSL,Month-to-month,19,0,0
+Female,0,No,41,Yes,Yes,Fiber optic,Two year,81,0,0
+Female,0,No,41,Yes,Yes,DSL,Month-to-month,56,0,0
+Female,0,No,72,Yes,No,DSL,Two year,20,0,0
+Female,0,No,5,Yes,Yes,Fiber optic,Two year,20,0,0
+Male,0,No,32,Yes,Yes,DSL,One year,79,1,0
+Female,1,No,66,Yes,No,DSL,Two year,108,0,0
+Female,0,No,10,Yes,No,DSL,One year,21,0,0
+Female,0,Yes,56,Yes,No,Fiber optic,Month-to-month,61,0,0
+Male,0,No,51,Yes,Yes,Fiber optic,One year,95,1,0
+Male,0,No,8,Yes,Yes,Fiber optic,Month-to-month,59,0,0
+Female,0,Yes,8,Yes,Yes,DSL,Two year,56,0,0
+Male,1,No,54,Yes,No,DSL,Month-to-month,99,0,0
+Male,0,Yes,55,Yes,Yes,Fiber optic,Month-to-month,59,0,0
+Male,0,No,7,No,Yes,Fiber optic,Month-to-month,36,0,0
+Female,0,Yes,28,Yes,No,DSL,Month-to-month,90,1,0
+Female,0,Yes,51,Yes,Yes,Fiber optic,Two year,95,0,0
+Female,0,Yes,46,Yes,Yes,Fiber optic,Two year,100,0,0
+Female,1,No,8,Yes,No,DSL,Month-to-month,20,1,0
+Female,0,Yes,69,Yes,No,DSL,Month-to-month,74,0,0
+Female,0,No,6,Yes,No,DSL,Two year,89,1,1
+Male,0,No,58,Yes,No,DSL,Two year,103,1,0
+Female,0,Yes,23,Yes,Yes,DSL,One year,84,0,0
+Female,0,Yes,72,Yes,No,Fiber optic,One year,24,0,0
+Female,0,No,26,Yes,No,DSL,Month-to-month,96,0,1
+Male,0,No,9,Yes,No,DSL,Month-to-month,85,1,1
+Male,0,No,17,Yes,No,DSL,Two year,21,0,0
+Male,1,Yes,11,Yes,Yes,DSL,Month-to-month,75,0,1
+Female,0,No,10,Yes,No,Fiber optic,Month-to-month,61,0,0
+Female,0,Yes,11,Yes,Yes,DSL,Two year,51,0,0
+Male,0,Yes,20,Yes,Yes,DSL,One year,50,0,0
+Female,0,No,47,Yes,No,DSL,Month-to-month,20,0,0
+Male,0,Yes,72,Yes,No,DSL,Month-to-month,72,0,0
+Female,0,Yes,45,Yes,Yes,DSL,Two year,81,0,0
+Female,0,No,67,Yes,Yes,Fiber optic,Month-to-month,106,0,0
+Male,0,No,19,Yes,No,DSL,Month-to-month,85,0,0
+Female,1,No,1,Yes,Yes,Fiber optic,Month-to-month,73,1,1
+Male,1,No,8,Yes,No,DSL,Two year,74,1,1
+Female,0,Yes,41,Yes,No,DSL,Two year,75,0,0
+Female,0,No,29,Yes,No,DSL,Month-to-month,79,1,0
+Female,1,No,52,Yes,Yes,Fiber optic,One year,108,0,0
+Female,0,No,25,Yes,Yes,Fiber optic,Month-to-month,20,0,0
+Male,0,Yes,66,Yes,No,Fiber optic,Month-to-month,103,0,0
+Male,0,Yes,72,Yes,No,Fiber optic,Month-to-month,64,0,0
+Male,1,No,47,Yes,Yes,DSL,Two year,86,0,0
+Female,0,No,42,Yes,Yes,Fiber optic,Month-to-month,21,0,0
+Male,0,Yes,32,Yes,No,Fiber optic,Month-to-month,19,0,0
+Female,0,Yes,9,Yes,Yes,DSL,One year,76,0,0
+Male,0,Yes,1,Yes,Yes,Fiber optic,Month-to-month,71,1,1
+Female,0,No,23,Yes,Yes,Fiber optic,Two year,50,0,0
+Male,0,Yes,61,Yes,Yes,Fiber optic,Month-to-month,81,0,0
+Female,1,No,4,Yes,Yes,Fiber optic,One year,85,1,1
+Female,0,No,1,Yes,Yes,Fiber optic,Month-to-month,44,0,0
+Male,0,Yes,15,Yes,No,DSL,Two year,91,0,0
+Female,0,No,22,Yes,No,DSL,Month-to-month,90,1,1
+Female,0,Yes,1,Yes,No,Fiber optic,One year,21,1,0
+Male,0,Yes,58,Yes,No,DSL,One year,93,0,0
+Male,0,No,4,Yes,Yes,Fiber optic,Month-to-month,75,1,1
+Female,0,No,70,Yes,No,DSL,Month-to-month,102,0,0
+Female,1,No,22,Yes,No,DSL,One year,20,0,0
+Male,0,No,24,Yes,Yes,Fiber optic,Two year,74,0,0
+Female,0,No,60,No,Yes,DSL,Month-to-month,44,0,0
+Female,0,No,11,Yes,Yes,DSL,One year,20,0,0
+Male,0,Yes,6,Yes,No,DSL,Two year,55,1,0
+Female,0,No,28,No,No,DSL,Month-to-month,30,0,0
+Male,0,No,1,Yes,No,DSL,One year,21,0,0
+Female,1,No,65,Yes,Yes,Fiber optic,Month-to-month,94,0,0
+Female,0,No,36,Yes,No,DSL,Month-to-month,95,0,0
+Male,0,No,44,Yes,No,Fiber optic,Month-to-month,85,0,0
+Male,0,No,21,Yes,No,Fiber optic,Month-to-month,20,0,0
+Female,0,No,33,Yes,No,Fiber optic,Month-to-month,104,1,1
+Male,1,Yes,68,Yes,No,DSL,Two year,85,0,0
+Male,0,Yes,35,Yes,Yes,Fiber optic,Month-to-month,90,0,0
+Female,0,No,29,Yes,No,Fiber optic,Month-to-month,55,0,0
+Male,1,No,66,Yes,Yes,DSL,Two year,100,1,0
+Female,0,Yes,1,Yes,Yes,DSL,Two year,70,1,1
+Female,0,Yes,67,Yes,No,DSL,Month-to-month,74,0,0
+Male,1,Yes,72,Yes,No,Fiber optic,One year,115,0,0
+Female,1,No,45,Yes,Yes,DSL,Two year,100,0,0
+Female,0,No,34,Yes,No,Fiber optic,One year,50,0,0
+Female,0,No,71,Yes,Yes,DSL,One year,88,0,0
+Female,0,No,6,Yes,Yes,Fiber optic,Month-to-month,46,0,0
+Male,0,No,11,Yes,No,DSL,One year,54,1,0
+Female,0,No,53,Yes,Yes,DSL,One year,91,0,0
+Male,0,No,8,Yes,Yes,Fiber optic,Month-to-month,50,0,0
+Female,0,No,67,Yes,No,DSL,Month-to-month,20,0,0
+Male,1,No,2,Yes,Yes,DSL,One year,96,0,1
+Female,0,Yes,19,Yes,Yes,Fiber optic,Month-to-month,49,0,0
+Female,0,No,72,Yes,No,Fiber optic,Month-to-month,21,0,0
+Male,0,No,5,Yes,No,Fiber optic,Month-to-month,75,0,1
+Female,0,No,40,Yes,Yes,DSL,Two year,81,0,0
+Male,0,No,67,Yes,Yes,Fiber optic,Month-to-month,118,1,0
+Female,0,Yes,65,Yes,No,DSL,Month-to-month,99,0,0
+Female,0,No,42,Yes,No,Fiber optic,Month-to-month,74,1,0
+Female,1,Yes,72,Yes,No,DSL,Month-to-month,90,0,0
+Female,0,No,59,Yes,No,DSL,One year,81,0,0
+Male,0,No,22,Yes,No,DSL,Month-to-month,54,1,0
+Female,0,Yes,32,Yes,No,DSL,Month-to-month,91,1,0
+Female,0,No,15,Yes,Yes,Fiber optic,Month-to-month,75,0,0
+Female,0,No,8,Yes,Yes,Fiber optic,Month-to-month,85,1,1
+Male,1,No,19,Yes,Yes,Fiber optic,Month-to-month,66,0,0
+Male,0,Yes,50,Yes,Yes,Fiber optic,Two year,108,0,0
+Male,0,Yes,19,Yes,No,DSL,Month-to-month,84,1,0
+Male,0,No,4,Yes,No,DSL,One year,56,0,0
+Male,0,Yes,50,Yes,No,DSL,One year,106,1,0
+Male,0,No,19,Yes,No,DSL,Month-to-month,89,0,0
+Male,0,Yes,45,Yes,No,DSL,Two year,84,0,0
+Male,0,Yes,68,No,No,DSL,Month-to-month,56,0,0
+Female,0,No,20,Yes,Yes,DSL,Two year,19,0,0
+Female,0,No,12,Yes,No,DSL,One year,20,0,0
+Male,0,No,19,Yes,No,DSL,Month-to-month,78,1,0
+Female,0,Yes,48,Yes,No,DSL,Month-to-month,96,1,0
+Female,0,No,1,No,No,DSL,Month-to-month,31,0,1
+Female,0,Yes,72,No,No,DSL,Two year,66,0,0
+Male,0,No,30,Yes,No,DSL,Month-to-month,64,0,0
+Male,1,No,11,Yes,No,Fiber optic,One year,60,0,0
+Female,0,Yes,26,Yes,No,DSL,Month-to-month,60,1,0
+Female,0,No,28,Yes,No,DSL,Two year,26,0,0
+Male,0,No,54,Yes,Yes,Fiber optic,One year,89,0,0
+Male,0,No,72,Yes,No,Fiber optic,One year,90,0,0
+Male,0,No,70,No,No,DSL,Month-to-month,39,0,0
+Male,0,No,11,Yes,No,DSL,One year,23,1,0
+Female,0,No,57,Yes,Yes,Fiber optic,One year,109,0,0
+Male,0,Yes,59,Yes,Yes,Fiber optic,Month-to-month,111,0,0
+Male,0,No,28,Yes,No,DSL,Two year,18,0,0
+Male,0,Yes,72,Yes,Yes,DSL,One year,103,1,0
+Female,0,No,71,Yes,No,Fiber optic,Month-to-month,25,0,0
+Male,0,Yes,10,Yes,Yes,Fiber optic,Month-to-month,25,0,0
+Female,0,Yes,5,Yes,Yes,Fiber optic,Two year,81,0,1
+Female,0,No,1,Yes,No,DSL,Month-to-month,20,0,0
+Male,0,No,23,Yes,No,DSL,Two year,91,1,0
+Female,0,No,57,Yes,No,DSL,Month-to-month,100,0,0
+Male,0,No,5,No,No,Fiber optic,Month-to-month,51,1,1
+Female,0,Yes,61,Yes,Yes,DSL,One year,25,0,0
+Female,0,No,17,Yes,Yes,Fiber optic,Month-to-month,94,1,1
+Female,1,No,67,Yes,No,DSL,Two year,55,0,0
+Female,0,Yes,0,Yes,No,Fiber optic,Month-to-month,20,0,0
+Female,0,No,9,Yes,No,DSL,Month-to-month,92,1,1
+Female,0,Yes,43,Yes,No,Fiber optic,One year,24,0,0
+Female,1,No,5,Yes,No,DSL,Month-to-month,81,0,1
+Female,0,No,9,Yes,No,DSL,Two year,80,0,1
+Female,0,Yes,71,Yes,Yes,Fiber optic,Month-to-month,20,0,0
+Female,0,Yes,12,Yes,No,Fiber optic,Month-to-month,58,0,0
+Male,0,Yes,35,Yes,No,DSL,Month-to-month,110,0,0
+Male,0,No,45,Yes,Yes,Fiber optic,One year,81,0,0
+Male,0,No,4,Yes,No,Fiber optic,Month-to-month,21,0,0
+Female,0,No,1,Yes,Yes,DSL,Month-to-month,94,1,1
+Female,0,No,62,Yes,Yes,DSL,One year,92,0,0
+Female,0,No,47,Yes,No,DSL,Month-to-month,66,0,0
+Male,0,Yes,19,Yes,No,DSL,Month-to-month,100,1,0
+Female,0,No,16,No,Yes,DSL,Two year,39,0,0
+Female,1,No,1,Yes,No,DSL,Month-to-month,91,1,1
+Male,0,Yes,49,No,No,Fiber optic,Month-to-month,52,1,0
+Female,0,No,1,Yes,Yes,Fiber optic,Month-to-month,45,0,0
+Female,0,Yes,4,Yes,Yes,Fiber optic,Month-to-month,56,1,0
+Male,0,Yes,71,Yes,No,DSL,Month-to-month,85,0,0
+Male,1,No,72,No,No,DSL,Month-to-month,63,0,0
+Male,0,Yes,40,Yes,No,DSL,Two year,20,0,0
+Female,0,No,55,Yes,No,DSL,Month-to-month,73,0,0
+Female,0,No,72,Yes,No,Fiber optic,One year,111,0,0
+Female,0,Yes,15,Yes,Yes,Fiber optic,Month-to-month,20,0,0
+Male,0,No,8,Yes,Yes,Fiber optic,Month-to-month,44,0,0
+Female,0,No,27,Yes,No,Fiber optic,Month-to-month,102,0,1
+Female,0,No,47,Yes,No,DSL,Month-to-month,74,0,0
+Female,0,Yes,8,Yes,Yes,DSL,Month-to-month,20,0,0
+Female,0,No,1,Yes,No,DSL,One year,69,1,1
+Male,0,No,1,Yes,No,DSL,Month-to-month,20,0,0
+Female,0,No,49,Yes,No,DSL,Month-to-month,20,0,0
+Male,0,Yes,1,Yes,Yes,Fiber optic,Two year,20,0,0
+Male,0,Yes,72,No,Yes,Fiber optic,Month-to-month,49,0,0
+Female,0,No,37,Yes,Yes,DSL,Two year,100,0,0
+Male,0,Yes,20,Yes,No,Fiber optic,Month-to-month,20,0,0
+Male,0,No,23,Yes,Yes,Fiber optic,Month-to-month,75,1,0
+Female,0,No,71,Yes,Yes,Fiber optic,Month-to-month,24,0,0
+Female,0,No,12,Yes,Yes,Fiber optic,One year,20,0,0
+Male,0,Yes,44,Yes,No,Fiber optic,Month-to-month,55,0,0
+Male,0,Yes,52,Yes,Yes,Fiber optic,Month-to-month,25,0,0
+Male,0,No,1,Yes,Yes,Fiber optic,Month-to-month,21,0,0
+Female,1,No,42,Yes,No,DSL,Two year,105,0,0
+Female,0,Yes,71,Yes,Yes,DSL,One year,20,0,0
+Male,0,No,2,Yes,No,DSL,Month-to-month,80,1,1
+Male,0,No,11,Yes,No,Fiber optic,Month-to-month,20,0,0
+Male,0,Yes,64,Yes,Yes,DSL,Two year,81,0,0
+Female,0,No,53,Yes,No,DSL,Month-to-month,20,0,0
+Female,1,No,16,Yes,No,DSL,Month-to-month,59,1,1
+Male,0,No,42,Yes,No,DSL,Two year,20,0,0
+Female,0,Yes,9,Yes,No,DSL,One year,20,0,0
+Male,1,No,4,Yes,Yes,DSL,One year,95,0,1
+Male,0,No,56,Yes,Yes,Fiber optic,Two year,53,0,0
+Male,0,Yes,67,Yes,No,DSL,One year,103,0,0
+Male,0,No,3,No,No,DSL,Month-to-month,30,0,1
+Female,0,Yes,72,No,Yes,Fiber optic,Month-to-month,56,0,0
+Female,0,No,9,Yes,Yes,DSL,Month-to-month,60,0,0
+Male,0,No,1,Yes,No,DSL,Two year,45,1,0
+Male,1,No,15,Yes,No,DSL,Two year,74,1,1
+Male,0,No,64,Yes,Yes,Fiber optic,One year,20,0,0
+Male,0,No,65,Yes,No,DSL,Month-to-month,91,0,0
+Female,1,Yes,66,Yes,No,DSL,Month-to-month,111,0,0
+Male,0,No,54,Yes,Yes,Fiber optic,One year,90,0,0
+Male,0,No,27,Yes,Yes,Fiber optic,Month-to-month,19,0,0
+Male,0,No,22,Yes,No,DSL,Month-to-month,95,1,0
+Male,0,No,25,Yes,No,DSL,Month-to-month,82,0,0
+Male,0,Yes,68,Yes,Yes,Fiber optic,Month-to-month,71,0,0
+Female,0,Yes,13,Yes,Yes,DSL,Month-to-month,104,0,1
+Male,0,No,1,Yes,No,Fiber optic,Month-to-month,82,1,1
+Female,0,No,47,Yes,Yes,DSL,Two year,106,0,0
+Male,0,Yes,37,Yes,No,Fiber optic,Month-to-month,93,0,0
+Male,0,No,29,Yes,Yes,Fiber optic,Two year,86,0,0
+Female,0,No,18,Yes,Yes,DSL,Month-to-month,50,0,0
+Male,1,No,70,No,No,DSL,Month-to-month,45,1,0
+Male,0,No,53,Yes,No,Fiber optic,Month-to-month,74,0,0
+Male,0,No,4,Yes,Yes,Fiber optic,Month-to-month,88,1,1
+Female,0,Yes,8,Yes,No,DSL,Month-to-month,55,0,0
+Male,0,Yes,72,Yes,Yes,Fiber optic,Two year,105,0,0
+Female,0,Yes,16,Yes,No,Fiber optic,Month-to-month,80,0,0
+Female,0,Yes,71,Yes,No,Fiber optic,One year,24,0,0
+Male,0,No,52,Yes,Yes,DSL,One year,89,0,0
+Female,0,No,52,Yes,No,DSL,Month-to-month,81,0,0
+Female,0,Yes,34,Yes,No,Fiber optic,Month-to-month,116,0,1
+Female,0,No,19,Yes,No,DSL,Month-to-month,90,1,1
+Female,0,No,1,Yes,Yes,DSL,One year,20,1,0
+Male,0,No,1,No,No,DSL,Month-to-month,25,1,1
+Male,0,No,72,No,No,DSL,Month-to-month,61,0,0
+Female,0,No,11,Yes,No,DSL,Two year,101,1,1
+Female,0,No,72,Yes,No,DSL,Month-to-month,26,0,0
+Male,0,No,9,Yes,Yes,Fiber optic,Month-to-month,45,1,0
+Female,0,Yes,18,Yes,Yes,Fiber optic,Month-to-month,65,0,0
+Female,0,No,10,Yes,No,DSL,Two year,20,0,0
+Female,1,No,26,Yes,Yes,DSL,Two year,85,1,1
+Female,0,No,6,Yes,Yes,DSL,Two year,55,0,0
+Male,0,Yes,49,Yes,No,DSL,One year,60,0,0
+Female,1,No,5,Yes,No,DSL,Month-to-month,83,1,1
+Female,0,No,19,No,Yes,DSL,One year,40,0,0
+Male,0,Yes,35,Yes,No,DSL,Month-to-month,25,0,0
+Male,0,No,70,Yes,Yes,Fiber optic,Month-to-month,79,0,0
+Male,0,No,1,Yes,No,DSL,Two year,51,0,0
+Male,0,Yes,27,Yes,Yes,Fiber optic,One year,56,0,0
+Female,0,No,29,Yes,No,Fiber optic,Month-to-month,67,0,0
+Male,1,No,32,Yes,Yes,DSL,Two year,81,0,0
+Male,0,No,10,Yes,Yes,DSL,Two year,104,1,1
+Female,1,No,17,Yes,Yes,Fiber optic,Two year,21,0,0
+Female,0,No,1,Yes,Yes,DSL,Two year,45,1,0
+Male,0,No,6,Yes,Yes,Fiber optic,Month-to-month,79,0,1
+Female,1,No,8,Yes,Yes,DSL,Two year,81,1,1
+Female,0,Yes,15,Yes,Yes,DSL,One year,105,0,1
+Female,1,No,65,Yes,No,DSL,Month-to-month,106,0,0
+Male,0,Yes,11,Yes,Yes,DSL,Two year,80,1,0
+Male,0,Yes,30,Yes,No,Fiber optic,Month-to-month,21,0,0
+Male,0,No,11,Yes,No,Fiber optic,Two year,73,0,0
+Female,0,Yes,42,Yes,Yes,DSL,One year,20,0,0
+Male,0,No,16,Yes,Yes,Fiber optic,Month-to-month,19,0,0
+Male,1,No,64,Yes,No,DSL,Month-to-month,80,0,0
+Male,0,No,10,Yes,Yes,Fiber optic,Two year,20,0,0
+Male,1,No,31,Yes,No,DSL,Two year,89,0,0
+Female,0,No,25,No,Yes,DSL,Month-to-month,48,0,0
+Male,0,No,7,Yes,Yes,Fiber optic,Two year,24,0,0
+Male,0,No,71,Yes,No,Fiber optic,Month-to-month,109,1,0
+Female,0,No,64,Yes,No,DSL,Month-to-month,24,0,0
+Female,0,No,46,Yes,No,Fiber optic,Month-to-month,94,0,0
+Male,1,No,1,Yes,Yes,Fiber optic,Two year,95,1,1
+Male,0,Yes,6,Yes,Yes,Fiber optic,Two year,20,0,0
+Female,0,No,57,Yes,Yes,Fiber optic,One year,75,0,0
+Female,1,No,64,No,No,Fiber optic,Two year,44,0,0
+Male,0,No,71,Yes,No,DSL,Two year,99,0,0
+Female,0,No,49,Yes,Yes,DSL,Month-to-month,107,0,0
+Male,0,No,1,Yes,Yes,Fiber optic,One year,56,0,0
+Male,1,No,38,No,Yes,DSL,Two year,25,0,0
+Male,0,No,1,Yes,No,DSL,One year,89,1,1
+Female,0,No,1,Yes,Yes,DSL,Month-to-month,45,1,1
+Male,0,No,33,Yes,No,Fiber optic,Month-to-month,93,0,0
+Female,0,Yes,2,Yes,Yes,Fiber optic,Two year,81,0,1
+Female,0,No,71,Yes,Yes,Fiber optic,Month-to-month,115,0,0
+Female,0,No,58,Yes,Yes,DSL,Month-to-month,109,1,0
+Female,1,No,25,Yes,No,DSL,Two year,70,0,0
+Female,0,Yes,69,Yes,No,DSL,Month-to-month,113,0,0
+Male,1,Yes,26,Yes,Yes,DSL,Two year,106,1,1
+Female,1,No,1,No,Yes,Fiber optic,One year,36,1,1
+Male,0,Yes,70,Yes,No,DSL,Month-to-month,84,0,0
+Male,0,No,63,Yes,No,Fiber optic,Month-to-month,72,0,0
+Male,0,Yes,30,Yes,Yes,Fiber optic,Month-to-month,64,0,0
+Female,0,No,28,No,No,DSL,One year,36,0,0
+Male,0,Yes,17,Yes,Yes,Fiber optic,Month-to-month,67,0,0
+Female,0,Yes,14,Yes,No,DSL,Two year,19,0,0
+Male,0,No,24,Yes,No,DSL,One year,54,0,0
+Female,1,No,19,Yes,No,DSL,Month-to-month,105,0,1
+Female,0,No,2,Yes,No,Fiber optic,Two year,86,1,1
+Male,0,Yes,31,No,Yes,Fiber optic,One year,25,0,0
+Male,0,No,12,Yes,Yes,Fiber optic,Month-to-month,96,0,1
+Male,0,Yes,1,Yes,Yes,Fiber optic,Month-to-month,46,1,0
+Male,0,Yes,59,Yes,No,DSL,Month-to-month,77,0,0
+Female,0,No,55,Yes,Yes,Fiber optic,Month-to-month,95,0,0
+Male,0,Yes,70,Yes,Yes,DSL,Two year,98,0,0
+Male,0,Yes,46,Yes,Yes,DSL,One year,20,0,0
+Male,0,No,51,Yes,No,DSL,Month-to-month,95,1,0
+Female,0,No,15,Yes,No,DSL,Month-to-month,59,1,0
+Female,0,Yes,7,No,No,DSL,One year,30,0,0
+Female,1,No,3,Yes,No,DSL,One year,79,1,1
+Male,0,No,18,No,No,Fiber optic,Month-to-month,25,0,0
+Male,0,Yes,51,Yes,No,DSL,Two year,19,0,0
+Male,0,No,2,Yes,No,DSL,One year,20,0,0
+Male,0,No,12,Yes,No,DSL,Two year,82,1,0
+Male,0,No,67,Yes,Yes,Fiber optic,Month-to-month,26,0,0
+Male,0,No,66,Yes,No,Fiber optic,Month-to-month,114,0,0
+Male,0,Yes,4,Yes,Yes,DSL,Two year,24,0,0
+Male,0,Yes,32,Yes,No,DSL,Two year,91,0,0
+Female,0,Yes,71,Yes,No,DSL,Month-to-month,99,0,0
+Male,0,No,66,Yes,No,Fiber optic,Month-to-month,64,0,0
+Female,1,No,49,Yes,No,DSL,One year,91,1,0
+Male,1,No,32,Yes,No,DSL,Month-to-month,80,1,0
+Female,0,No,53,Yes,Yes,Fiber optic,Month-to-month,110,0,0
+Male,0,No,60,Yes,No,Fiber optic,Month-to-month,24,0,0
+Male,0,Yes,1,Yes,Yes,DSL,Two year,20,0,0
+Female,0,Yes,48,No,Yes,DSL,Month-to-month,30,0,0
+Male,0,Yes,18,Yes,Yes,Fiber optic,Month-to-month,20,0,0
+Male,0,No,52,Yes,Yes,DSL,Two year,85,1,0
+Female,0,No,18,Yes,Yes,Fiber optic,One year,20,0,0
+Male,0,No,1,Yes,Yes,DSL,Two year,51,1,0
+Male,0,No,72,Yes,Yes,Fiber optic,Month-to-month,106,0,0
+Female,0,Yes,69,Yes,Yes,Fiber optic,One year,93,0,0
+Female,0,No,3,Yes,No,DSL,One year,76,1,1
+Female,0,No,13,No,Yes,Fiber optic,Month-to-month,49,0,0
+Female,1,No,1,Yes,Yes,DSL,One year,70,1,1
+Female,0,No,1,Yes,Yes,DSL,One year,20,0,0
+Male,0,No,29,Yes,No,DSL,Two year,75,0,0
+Female,0,Yes,71,Yes,Yes,Fiber optic,Two year,100,0,0
+Female,0,Yes,70,Yes,Yes,Fiber optic,Month-to-month,110,0,0
+Male,0,Yes,62,Yes,Yes,Fiber optic,Two year,20,0,0
+Male,0,Yes,59,Yes,No,DSL,Month-to-month,19,0,0
+Male,0,No,71,Yes,No,DSL,Month-to-month,80,0,0
+Female,0,No,3,Yes,Yes,DSL,Two year,20,0,0
+Male,0,No,43,Yes,Yes,DSL,Month-to-month,101,1,0
+Female,0,No,48,Yes,No,DSL,Month-to-month,75,0,0
+Female,0,No,68,Yes,No,Fiber optic,Month-to-month,20,0,0
+Female,0,Yes,4,Yes,No,DSL,Month-to-month,74,1,1
+Female,0,No,33,Yes,No,DSL,Month-to-month,91,0,0
+Male,0,No,1,Yes,No,Fiber optic,Month-to-month,44,1,0
+Male,0,No,2,Yes,Yes,DSL,Two year,95,1,1
+Female,0,No,18,No,No,DSL,Month-to-month,39,1,0
+Female,0,Yes,23,Yes,Yes,Fiber optic,Month-to-month,77,0,0
+Female,0,No,26,No,Yes,Fiber optic,One year,48,0,0
+Female,0,Yes,72,Yes,Yes,Fiber optic,Month-to-month,104,0,0
+Female,0,No,48,Yes,No,DSL,Month-to-month,70,0,0
+Female,1,No,42,Yes,No,DSL,Month-to-month,74,1,0
+Female,0,No,9,Yes,Yes,DSL,One year,44,1,0
+Male,0,No,72,Yes,No,DSL,Two year,108,0,0
+Male,0,No,68,Yes,No,DSL,One year,25,0,0
+Female,0,Yes,47,Yes,No,DSL,One year,19,0,0
+Male,0,Yes,62,Yes,Yes,Fiber optic,Month-to-month,95,0,0
+Male,1,No,44,No,No,DSL,One year,30,1,0
+Female,0,Yes,15,Yes,No,DSL,Month-to-month,69,1,0
+Male,0,No,58,Yes,Yes,DSL,Two year,60,1,0
+Female,0,No,72,Yes,Yes,Fiber optic,Month-to-month,85,0,0
+Male,0,No,16,Yes,Yes,Fiber optic,Month-to-month,20,1,0
+Male,0,No,32,Yes,Yes,Fiber optic,Month-to-month,99,0,0
+Female,0,Yes,3,Yes,No,DSL,One year,21,0,0
+Male,0,No,2,Yes,Yes,Fiber optic,Month-to-month,46,1,0
+Male,0,No,38,Yes,Yes,DSL,Two year,20,0,0
+Female,0,No,25,Yes,Yes,Fiber optic,Month-to-month,109,0,1
+Female,0,Yes,64,Yes,No,DSL,Two year,20,0,0
+Female,1,No,4,Yes,No,DSL,Month-to-month,49,0,1
+Male,0,No,22,Yes,Yes,Fiber optic,Month-to-month,101,1,1
+Male,0,No,1,Yes,No,DSL,One year,69,1,1
+Male,0,No,9,Yes,No,Fiber optic,Month-to-month,19,1,0
+Female,1,No,37,Yes,No,DSL,One year,90,0,0
+Female,1,No,51,Yes,No,DSL,Month-to-month,78,1,0
+Female,0,Yes,55,Yes,No,Fiber optic,Month-to-month,75,0,0
+Male,0,Yes,72,Yes,Yes,Fiber optic,Two year,82,0,0
+Male,1,No,67,Yes,No,DSL,Month-to-month,84,0,0
+Male,0,No,35,Yes,No,DSL,Month-to-month,21,0,0
+Male,0,No,49,Yes,No,DSL,Month-to-month,107,0,0
+Female,0,Yes,53,Yes,No,DSL,Month-to-month,85,0,0
+Male,0,Yes,66,Yes,No,DSL,Two year,66,0,0
+Female,0,No,10,Yes,Yes,DSL,Two year,76,0,0
+Male,0,Yes,28,Yes,Yes,DSL,Two year,106,1,0
+Female,0,No,10,Yes,Yes,Fiber optic,Month-to-month,21,0,0
+Female,0,Yes,43,Yes,No,Fiber optic,One year,25,0,0
+Male,0,No,26,Yes,No,Fiber optic,Month-to-month,20,0,0
+Female,0,No,2,Yes,No,DSL,Month-to-month,76,1,1
+Female,0,No,5,Yes,No,DSL,Month-to-month,94,1,1
+Female,0,Yes,72,Yes,Yes,DSL,Two year,67,0,0
+Female,0,Yes,67,No,No,DSL,One year,36,0,0
+Male,0,Yes,72,Yes,No,Fiber optic,Month-to-month,113,0,0
+Male,0,Yes,59,Yes,No,DSL,Month-to-month,20,0,0
+Male,0,Yes,38,Yes,No,Fiber optic,Month-to-month,95,1,0
+Male,0,Yes,4,Yes,Yes,Fiber optic,Month-to-month,85,1,1
+Male,0,No,56,Yes,Yes,Fiber optic,Month-to-month,65,0,0
+Female,0,No,1,No,Yes,Fiber optic,Month-to-month,25,1,0
+Female,0,Yes,49,Yes,No,DSL,Month-to-month,25,0,0
+Male,0,Yes,29,Yes,Yes,Fiber optic,Month-to-month,69,0,0
+Male,0,No,55,Yes,Yes,Fiber optic,One year,104,1,0
+Male,1,No,43,Yes,No,DSL,Month-to-month,94,0,0
+Male,1,No,12,Yes,No,DSL,Month-to-month,80,1,1
+Male,0,No,27,Yes,Yes,Fiber optic,Two year,100,0,0
+Female,0,No,18,Yes,No,Fiber optic,Month-to-month,50,0,0
+Female,0,Yes,72,Yes,Yes,Fiber optic,Month-to-month,118,0,0
+Female,0,Yes,46,Yes,Yes,Fiber optic,Month-to-month,19,0,0
+Male,0,No,34,Yes,No,DSL,One year,101,0,0
+Male,0,No,44,Yes,No,DSL,Two year,85,0,0
+Female,0,No,32,Yes,No,DSL,Month-to-month,20,0,0
+Female,0,No,64,Yes,No,DSL,Month-to-month,19,0,0
+Female,0,No,2,Yes,Yes,Fiber optic,Two year,81,1,1
+Female,0,Yes,33,Yes,No,DSL,Two year,24,0,0
+Male,0,Yes,50,Yes,Yes,DSL,Month-to-month,103,0,0
+Male,0,Yes,4,Yes,No,DSL,Month-to-month,20,0,0
+Female,1,Yes,34,Yes,No,DSL,One year,80,1,0
+Female,1,No,66,Yes,No,DSL,Month-to-month,71,0,0
+Male,0,No,27,Yes,No,DSL,Month-to-month,82,0,0
+Male,1,No,54,Yes,No,DSL,Two year,90,0,0
+Male,0,No,9,Yes,No,DSL,One year,65,0,0
+Female,0,No,25,Yes,Yes,Fiber optic,Month-to-month,19,0,0
+Female,0,No,35,Yes,No,DSL,Month-to-month,23,0,0
+Male,0,Yes,47,Yes,No,DSL,Two year,87,0,0
+Male,1,Yes,38,Yes,Yes,Fiber optic,Month-to-month,101,0,0
+Female,1,No,45,Yes,No,DSL,One year,86,0,0
+Female,0,Yes,69,Yes,Yes,Fiber optic,Two year,64,0,0
+Male,0,No,33,Yes,No,DSL,Two year,68,1,0
+Female,0,No,29,Yes,Yes,DSL,One year,71,0,0
+Female,0,Yes,14,Yes,No,DSL,Month-to-month,81,0,1
+Male,0,No,4,Yes,No,DSL,Month-to-month,20,0,0
+Female,0,No,64,Yes,Yes,Fiber optic,One year,110,0,0
+Male,0,Yes,24,Yes,Yes,DSL,Month-to-month,21,0,0
+Female,0,No,12,Yes,Yes,Fiber optic,Month-to-month,19,0,0
+Female,0,No,10,Yes,No,DSL,Two year,95,1,1
+Female,0,Yes,72,Yes,No,Fiber optic,Two year,24,0,0
+Female,0,No,61,Yes,No,DSL,Month-to-month,94,0,0
+Female,0,No,71,Yes,No,DSL,Two year,80,0,0
+Female,0,No,62,Yes,No,DSL,One year,65,0,0
+Male,0,No,6,Yes,No,Fiber optic,Month-to-month,91,1,1
+Female,0,No,1,Yes,No,DSL,Month-to-month,44,1,1
+Male,0,No,57,Yes,No,DSL,One year,103,0,0
+Female,0,Yes,72,Yes,No,DSL,Month-to-month,117,0,0
+Female,0,No,9,Yes,No,Fiber optic,One year,75,0,1
+Female,0,No,17,Yes,Yes,Fiber optic,Month-to-month,20,0,0
+Female,0,No,48,Yes,No,DSL,One year,100,0,0
+Female,0,Yes,24,Yes,Yes,Fiber optic,One year,20,0,0
+Male,0,No,71,Yes,No,Fiber optic,Month-to-month,54,0,0
+Female,0,No,20,Yes,Yes,Fiber optic,One year,19,0,0
+Female,0,No,38,Yes,No,DSL,One year,19,0,0
+Male,0,Yes,63,Yes,Yes,DSL,Two year,25,0,0
+Female,0,Yes,34,No,No,Fiber optic,Month-to-month,61,0,0
+Female,0,No,49,Yes,Yes,DSL,One year,84,0,0
+Male,0,No,56,Yes,Yes,DSL,One year,76,0,0
+Male,0,Yes,66,Yes,Yes,Fiber optic,One year,63,0,0
+Female,0,Yes,17,Yes,No,DSL,One year,94,1,0
+Male,0,No,48,Yes,Yes,Fiber optic,One year,20,0,0
+Male,0,No,71,Yes,No,DSL,Month-to-month,116,0,0
+Male,0,No,8,Yes,No,DSL,One year,20,0,0
+Female,0,Yes,12,Yes,Yes,Fiber optic,Month-to-month,20,1,0
+Male,1,No,21,Yes,No,DSL,Month-to-month,97,1,1
+Female,1,No,60,Yes,No,DSL,One year,116,0,0
+Male,0,No,37,Yes,No,DSL,One year,94,0,0
+Female,0,No,9,Yes,Yes,Fiber optic,One year,69,0,0
+Male,0,Yes,50,Yes,No,DSL,Month-to-month,76,0,0
+Male,0,Yes,14,Yes,No,DSL,One year,65,1,0
+Male,1,No,1,Yes,No,DSL,Two year,75,0,1
+Female,0,No,56,Yes,No,DSL,Month-to-month,107,0,0
+Male,0,Yes,72,Yes,Yes,Fiber optic,Two year,106,0,0
+Male,1,No,51,No,No,DSL,One year,29,0,0
+Female,1,Yes,24,Yes,Yes,DSL,Month-to-month,97,0,1
+Female,0,Yes,48,Yes,Yes,Fiber optic,Month-to-month,103,1,0
+Female,0,Yes,24,Yes,No,DSL,Two year,20,0,0
+Female,1,No,40,Yes,Yes,Fiber optic,Month-to-month,104,0,1
+Male,0,No,52,Yes,No,Fiber optic,Month-to-month,92,0,0
+Female,1,No,35,Yes,Yes,DSL,Month-to-month,111,0,1
+Female,0,Yes,5,Yes,Yes,DSL,Two year,24,0,0
+Female,0,Yes,11,Yes,Yes,DSL,Two year,21,0,0
+Female,0,No,2,Yes,No,DSL,Month-to-month,21,0,0
+Male,0,No,26,Yes,No,DSL,Month-to-month,90,1,0
+Male,1,No,8,Yes,Yes,Fiber optic,Month-to-month,70,0,1
+Female,0,Yes,17,Yes,No,Fiber optic,Month-to-month,21,0,0
+Male,1,No,10,Yes,No,DSL,One year,92,1,1
+Male,1,No,7,Yes,No,Fiber optic,One year,85,1,1
+Female,0,No,1,No,No,DSL,Month-to-month,30,1,1
+Male,0,Yes,12,Yes,Yes,DSL,Two year,74,1,0
+Male,0,No,9,Yes,Yes,Fiber optic,Month-to-month,20,0,0
+Male,0,No,1,Yes,Yes,Fiber optic,Month-to-month,71,1,1
+Female,0,No,59,Yes,Yes,Fiber optic,One year,100,0,0
+Male,1,No,69,Yes,Yes,DSL,Two year,111,0,0
+Female,0,No,29,Yes,No,DSL,Month-to-month,19,0,0
+Female,0,Yes,13,Yes,Yes,Fiber optic,Two year,63,0,0
+Female,0,Yes,72,Yes,No,DSL,Month-to-month,80,0,0
+Female,0,No,37,Yes,Yes,DSL,Month-to-month,65,0,0
+Male,0,Yes,36,Yes,No,DSL,Month-to-month,25,0,0
+Female,0,No,66,Yes,No,DSL,One year,105,0,0
+Female,1,No,1,Yes,No,DSL,Two year,75,1,1
